@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Account</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        .navbar {
+            background-color: #fff;
+            border-bottom: 1px solid #ccc;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .navbar-brand {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+            text-decoration: none;
+        }
+
+        .navbar-nav {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+        }
+
+        .navbar-item {
+            margin-right: 10px;
+        }
+
+        #userData {
+            margin-top: 20px;
+            padding: 20px;
+            border-top: 1px solid #ccc;
+        }
+
+        #userData p {
+            margin-bottom: 10px;
+            font-size: 18px;
+            color: #666;
+        }
+
+        .button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="#" class="navbar-brand">My Account</a>
+        <ul class="navbar-nav">
+            <li class="navbar-item">
+                <button class="button" onclick="editProfile()">Edit Profile</button>
+            </li>
+            <li class="navbar-item">
+                <button class="button" onclick="changePassword()">Change Password</button>
+            </li>
+            <li class="navbar-item">
+                <button class="button" onclick="logout()">Logout</button>
+            </li>
+        </ul>
+    </div>
+    <div class="container">
+        
+        <div id="userData">
+            <!-- Display user data directly -->
+            <p><strong>Name:</strong> <%=user.name  %></p>
+            <p><strong>Email:</strong> <%= user.email %></p>
+            <p><strong>Age:</strong> <%= user.age %></p>
+            <p><strong>Phone Number:</strong> <%= user.phno %></p>
+            <p><strong>Gender:</strong> <%= user.gender %></p>
+        </div>
+    </div>
+
+    <script>
+        function editProfile() {
+            // Redirect to the edit profile page
+            window.location.href = "/edit_profile";
+        }
+
+        function changePassword() {
+            // Redirect to the change password page
+            window.location.href = "/change_password";
+        }
+
+        function logout() {
+            // Send a GET request to the logout route
+            fetch("/logout", {
+                method: "GET",
+                credentials: "same-origin"
+            })
+            .then(response => {
+                if (response.ok) {
+                    // Redirect to the login page after successful logout
+                    window.location.href = "/login.html";
+                } else {
+                    console.error("Logout failed");
+                    alert("Logout failed. Please try again.");
+                }
+            })
+            .catch(error => {
+                console.error("Error during logout:", error);
+                alert("An error occurred during logout. Please try again.");
+            });
+        }
+    </script>
+</body>
+</html>

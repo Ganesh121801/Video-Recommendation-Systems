@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page-Your Productivity Space</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        
+        .dev-img{
+            height: 400px;
+            width: 400px;
+        }
+
+        #home{
+            margin-top: 80px;
+        }
+
+        nav{
+            position: fixed;
+            width: 100%;
+            margin-top: 0px;
+            top: 0px;
+        }
+        
+        #developer {
+            text-align: center;
+        }
+        h2 {
+            margin-bottom: 20px;
+        }
+
+        .content-section{
+            display:grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 100px 150px 150px;
+            gap: 30px;
+        }
+
+        .content-section>h2{
+            grid-column: span 3;
+            font-size: xx-large;
+        }
+
+        .card{
+            
+            background-color: rgb(197, 184, 184);
+            border-radius: 2%;
+        }
+        
+        .card img {
+            width: 100%;
+            height: 100%;
+            object-fit: fill; /* Cover the entire area of the card */
+        }
+
+        #developer.content-section{
+            display:grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 100px 450px 450px;
+            gap: 15px;
+        }
+
+        #developer.content-section>h2{
+            grid-column: span 2;
+            font-size: xx-large;
+        }      
+
+        #developer{
+            height:550px;
+            width: 900px;
+            margin-bottom: 400px;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <div class="container">
+        <h1><a style="color: black;" href="./landingpage.html" >Your Productivity Space</a></h1>
+        <ul>
+            <li><a href="./homess.html">Home</a></li>
+            <li><a>Trending</a></li>
+            <li><a href="./subscription.html">Subscriptions</a></li>
+            <li><a>Account</a></li>
+            <li><a href="./developers_founders.html">Developer</a></li>
+        </ul>
+    </div>
+</nav>
+
+
+
+
+<div id="home" class="content-section">
+    <h2>Home</h2>
+    <div class="card"></div>    <div class="card"></div>    <div class="card"></div>
+    <div class="card"></div>    <div class="card"></div>    <div class="card"></div>
+    <!-- Video thumbnails and descriptions -->
+</div>
+
+<div id="trending" class="content-section">
+    <h2>Trending</h2>
+    <div class="card"></div>    <div class="card"></div>    <div class="card"></div>
+    <div class="card"></div>    <div class="card"></div>    <div class="card"></div>
+    <!-- Trending video content -->
+</div>
+
+<div id="subscriptions" class="content-section">
+    <h2>Subscriptions</h2>
+    <!-- Subscription Details for More Productivity Tools-->
+    <!-- Subscribed channels and their videos -->
+</div>
+
+<div id="account" class="content-section">
+    <h2>Your Account</h2>
+    <!-- User account management -->
+</div>
+
+<div id="developer" class="content-section">
+    <h2>Developers</h2>
+    <div class="card dev-img"><img src="../public/" alt=""></div>
+    <div class="card dev-img"><img src="../assets/images/VinayakSp.jpeg" alt=""></div>
+    <div class="card dev-img"><img src="../assets/images/Ganesh.jpg" alt=""></div>
+    <div class="card dev-img"><img src="../assets/images/Abhi.jpg" alt=""></div>
+    <!-- Developer resources and documentation -->
+</div>
+
+<footer>
+    <div class="container">
+        <p>&copy; 2024 Your Productivity Space. All rights reserved.</p>
+    </div>
+</footer>
+
+</body>
+</html>

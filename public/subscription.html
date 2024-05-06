@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subscriptions-Your Productivity Space</title>
+    <!-- Import Materialize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <style>
+        /* Additional CSS styles */
+        nav {
+            background-color: rgb(255, 0, 0);
+            color: #fff;
+            padding: 0px 0;
+        }
+        .container h2 {
+            color: white;
+            font-size: x-large;
+        }
+        footer {
+            background-color: #ff0000;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        footer .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        /* Additional styles for cards */
+        .card {
+            background-color: #c5c7c9; /* Updated color */
+           
+        }
+        main {
+            padding-bottom: 100px; /* Added padding at the bottom */
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <div class="nav-wrapper red">
+        <div class="container">
+            <a href="./homess.html" class="brand-logo">Your Productivity Space</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="./homess.html">Home</a></li>
+                <li><a href="./trending.html">Trending</a></li>
+                <li><a href="./subscription.html">Subscriptions</a></li>
+                <li><a href="./userdata.html">Account</a></li>
+                <li><a href="./developers_founders.html">Developer</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col s12">
+                <h1 class="center-align">Subscription Options</h1>
+                <p class="center-align">Choose a subscription plan to access premium features:</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col s12 m6">
+                <div class="card ">
+                    <div class="card-content ">
+                        <span class="card-title">Basic Subscription</span>
+                        <p>$1.99/month</p>
+                        <p>Access to personalized recommendations</p>
+                    </div>
+                    <div class="card-action">
+                        <a href="#" class="black-text">Subscribe</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m6">
+                <div class="card ">
+                    <div class="card-content">
+                        <span class="card-title">Premium Subscription</span>
+                        <p>$4.99/month</p>
+                        <p>Ad-free experience and early access to new features</p>
+                    </div>
+                    <div class="card-action">
+                        <a href="#" class="black-text">Subscribe</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col s12">
+                <div class="card ">
+                    <div class="card-content ">
+                        <span class="card-title">Special Offers</span>
+                        <p>Check out our current offers:</p>
+                        <ul>
+                            <li>First Month Free: Subscribe to Premium and get your first month free!</li>
+                            <li>Refer a Friend: Refer a friend and get 50% off on your next subscription renewal.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer class="page-footer red">
+    <div class="container">
+        <p>&copy; 2024 Your Productivity Space. All rights reserved.</p>
+    </div>
+</footer>
+
+<!-- Import jQuery and Materialize JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<script>
+    // Initialize Materialize components
+    $(document).ready(function(){
+        $('.sidenav').sidenav();
+    });
+</script>
+
+</body>
+</html>

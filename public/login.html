@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <!-- Import Materialize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <style>
+        /* Additional CSS styles */
+        nav {
+            background-color: red;
+            color: #fff;
+            padding: 0px 0;
+        }
+        .container h2 {
+            color: white;
+            font-size: x-large;
+        }
+        footer {
+            background-color: #ff0000;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        footer .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="nav-wrapper">
+            <div class="container">
+                <a href="./homess.html" class="brand-logo">Your Productivity Space</a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Trending</a></li>
+                    <li><a href="subscription.html" >Subscriptions</a></li>
+                    <li><a href="./index.html">Account</a></li>
+                    <li><a href="./developers_founders.html">Developer</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <h2>Login</h2>
+        <form id="loginForm" action="/landingpage" method="POST">
+            <div class="input-field">
+                <input type="text" id="email" name="email" placeholder="Email" required>
+            </div>
+            <div class="input-field">
+                <input type="password" id="password" name="password" placeholder="Password" required>
+            </div>
+            <button class="btn waves-effect waves-light" type="submit">Login</button>
+        </form>
+        <p>Don't have an account? <a href="index.html">Sign up</a></p>
+    </div>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Your Productivity Space. All rights reserved.</p>
+        </div>
+    </footer>
+    <!-- Import jQuery and Materialize JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script>
+        // Initialize Materialize components
+        $(document).ready(function(){
+            $('.sidenav').sidenav();
+            $('select').formSelect();
+        });
+    </script>
+</body>
+</html>

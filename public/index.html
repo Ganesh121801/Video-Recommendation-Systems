@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+    <!-- Import Materialize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <style>
+        /* Custom CSS to adjust the width of the registration form container */
+        .registration-container {
+            max-width: 600px; /* Adjust this value as needed */
+            margin: 0 auto; /* Center the container horizontally */
+        }
+        /* Center the content of the footer */
+        footer.page-footer {
+            text-align: center;
+            background-color: red; /* Set background color of the footer */
+            color: white; /* Set text color of the footer */
+            padding: 20px 0; /* Add some padding to the footer */
+        }
+        /* Set background color of the navbar */
+        nav {
+            background-color: red;
+        }
+        /* Set text color of the navbar links */
+        nav a {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+<nav>
+    <div class="container">
+        <div class="nav-wrapper">
+            <a href="#" class="brand-logo">Your Productivity Space</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="./homess.html">Home</a></li>
+                <li><a href="#">Trending</a></li>
+                <li><a href="subscription.html">Subscriptions</a></li>
+                <li><a href="./index.html">Login</a></li>
+                <li><a href="./developers_founders.html">Developer</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="container registration-container"> <!-- Add a custom class to target the registration form container -->
+    <h2>Registration</h2>
+    <!-- Your existing form fields -->
+    <form id="registrationForm" action="/sign_up" method="POST">
+        <div class="input-field">
+            <input type="text" id="name" name="name" class="validate" required>
+            <label for="name">Name</label>
+        </div>
+        <div class="input-field">
+            <input type="number" id="age" name="age" class="validate" required>
+            <label for="age">Age</label>
+        </div>
+        <div class="input-field">
+            <input type="email" id="email" name="email" class="validate" required>
+            <label for="email">Email</label>
+        </div>
+        <div class="input-field">
+            <input type="tel" id="phno" name="phno" class="validate" required>
+            <label for="phno">Mobile</label>
+        </div>
+        <div class="input-field">
+            <input type="text" id="gender" name="gender" class="validate" required>
+            <label for="gender">Gender</label>
+        </div>
+        <div class="input-field">
+            <input type="password" id="password" name="password" class="validate" required>
+            <label for="password">Password</label>
+        </div>
+        <!-- Checkboxes for selecting niches -->
+        <p>Select the niches you want for content recommendation:</p>
+        <p>
+            <label>
+                <input type="checkbox" id="civil_services" name="niches[]" value="Civil Services" />
+                <span>Civil Services</span>
+            </label>
+        </p>
+        <p>
+            <label>
+                <input type="checkbox" id="defence_services" name="niches[]" value="Defence Services" />
+                <span>Defence Services</span>
+            </label>
+        </p>
+        <p>
+            <label>
+                <input type="checkbox" id="secondary_education" name="niches[]" value="Secondary and Higher Secondary Education" />
+                <span>Secondary and Higher Secondary Education</span>
+            </label>
+        </p>
+        <p>
+            <label>
+                <input type="checkbox" id="sports" name="niches[]" value="Sports" />
+                <span>Sports</span>
+            </label>
+        </p>
+        <button class="btn waves-effect waves-light" type="submit">Submit</button>
+    </form>
+    <p>Already have an account? <a href="login.html">Login</a></p>
+</div>
+
+<footer class="page-footer">
+    <div class="container">
+        <p>&copy; 2024 Your Productivity Space. All rights reserved.</p>
+    </div>
+</footer>
+
+<!-- Import jQuery and Materialize JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<script>
+    // Initialize Materialize components
+    $(document).ready(function(){
+        $('select').formSelect();
+    });
+</script>
+</body>
+</html>

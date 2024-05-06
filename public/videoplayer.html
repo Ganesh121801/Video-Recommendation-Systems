@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Player - Your Productivity Space</title>
+    <!-- Import Materialize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <style>
+        /* Additional CSS styles */
+        nav {
+            background-color: rgb(255, 0, 0);
+            color: #fff;
+            padding: 0px 0;
+        }
+        .container h2 {
+            color: white;
+            font-size: x-large;
+        }
+        footer {
+            background-color: #ff0000;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        footer .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+        }
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .center-align{
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <div class="nav-wrapper red">
+        <div class="container">
+            <a href="./homess.html" class="brand-logo">Your Productivity Space</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="./homess.html">Home</a></li>
+                <li><a href="./trending.html">Trending</a></li>
+                <li><a href="./subscription.html">Subscriptions</a></li>
+                <li><a href="./index.html">Login</a></li>
+                <li><a href="./developers_founders.html">Developer</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div id="video-container" class="row">
+        <div class="col s12">
+            <h2 id="video-title"></h2>
+            <div class="video-container" id="video-player">
+                <!-- Video player will be dynamically added here -->
+            </div>
+            <!-- Like and dislike buttons -->
+            <div class="center-align">
+                <button class="waves-effect waves-light btn" onclick="likeVideo()">Like</button>
+                <button class="waves-effect waves-light btn" onclick="dislikeVideo()">Dislike</button>
+                <button class="waves-effect waves-light btn" onclick="shareVideo()">Share</button>
+            </div>
+            <!-- Comment section -->
+            <div class="section">
+                <h5>Comments</h5>
+                <form id="comment-form">
+                    <div class="input-field">
+                        <textarea id="commentText" class="materialize-textarea"></textarea>
+                        <label for="commentText">Add a comment</label>
+                    </div>
+                    <button class="btn waves-effect waves-light" type="submit">Submit</button>
+                </form>
+                <ul class="collection" id="comments-list">
+                    <!-- Comments will be dynamically added here -->
+                </ul>
+            </div>
+            <!-- Suggested videos section -->
+            <div class="divider"></div>
+            <div class="section">
+                <h5>Suggested Videos</h5>
+                <div class="row" id="suggested-videos">
+                    <!-- Suggested videos will be dynamically added here -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="page-footer red">
+    <div class="container">
+        <p>&copy; 2024 Your Productivity Space. All rights reserved.</p>
+    </div>
+</footer>
+
+<!-- Import jQuery and Materialize JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<script>
+    // Function to fetch and display clicked video
+    function displayClickedVideo(videoId, title) {
+        document.getElementById('video-title').innerText = title;
+        const videoPlayer = document.getElementById('video-player');
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&modestbranding=1&showinfo=0&controls=0`;
+        iframe.width = '560';
+        iframe.height = '315';
+        iframe.frameBorder = '0';
+        iframe.allowFullscreen = true;
+        videoPlayer.appendChild(iframe);
+        // Fetch suggested videos
+        fetchSuggestedVideos(videoId);
+        // Fetch comments
+        fetchComments(videoId);
+    }
+
+    // Function to fetch suggested videos
+    function fetchSuggestedVideos(videoId) {
+        // You can implement logic to fetch suggested videos here
+        // For example:
+        const suggestedVideosContainer = document.getElementById('suggested-videos');
+        suggestedVideosContainer.innerHTML = '<p>No suggested videos found</p>';
+    }
+
+    // Function to fetch comments
+    function fetchComments(videoId) {
+        // You can implement logic to fetch comments here
+        // For example:
+        const commentsList = document.getElementById('comments-list');
+        commentsList.innerHTML = '<li class="collection-item">No comments found</li>';
+    }
+
+    // Function to handle like action
+    function likeVideo() {
+        // Implement logic to handle liking a video
+    }
+
+    // Function to handle dislike action
+    function dislikeVideo() {
+        // Implement logic to handle disliking a video
+    }
+
+    // Function to submit a comment
+    document.getElementById('comment-form').addEventListener('submit', function(event) {
+        event.preventDefault();
+        const commentText = document.getElementById('commentText').value;
+        // Implement logic to submit the comment
+        // Append the comment to the comments list
+        const commentsList = document.getElementById('comments-list');
+        const commentItem = document.createElement('li');
+        commentItem.classList.add('collection-item');
+        commentItem.innerText = commentText;
+        commentsList.appendChild(commentItem);
+        // Clear the comment textarea
+        document.getElementById('commentText').value = '';
+    });
+
+    // Call the function to display the clicked video when the page loads
+    document.addEventListener('DOMContentLoaded', function() {
+        // Retrieve the clicked video ID and title from the URL parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const videoId = urlParams.get('videoId');
+        const title = urlParams.get('title');
+        // Display the clicked video
+        displayClickedVideo(videoId, title);
+    });
+</script>
+</body>
+</html>

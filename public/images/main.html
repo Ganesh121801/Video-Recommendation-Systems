@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Video Player</title>
+    <style>
+        /* Add CSS styles for video container and individual video elements */
+        .video-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .video {
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>YouTube Videos</h1>
+    <div class="video-container" id="video-container"></div>
+
+    <script>
+        const API_KEY = 'AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE'; // Replace with your Google API key
+        const SEARCH_QUERY = 'Ganesh'; // Replace with your search query
+
+        // Function to fetch YouTube videos
+        function fetchYouTubeVideos() {
+            const url = `https://www.googleapis.com/youtube/v3/search?key=${API_KEY}&q=${SEARCH_QUERY}&part=snippet&type=video&maxResults=10`;
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    const videos = data.items;
+                    const videoContainer = document.getElementById('video-container');
+                    videos.forEach(video => {
+                        const videoId = video.id.videoId;
+                        const title = video.snippet.title;
+                        // Create an iframe element to embed the YouTube video
+                        const iframe = document.createElement('iframe');
+                        iframe.width = '300';
+                        iframe.height = '200';
+                        iframe.src = `https://www.youtube.com/embed/${videoId}`;
+                        iframe.allowFullscreen = true;
+                        // Create a div element to contain the video title
+                        const titleDiv = document.createElement('div');
+                        titleDiv.textContent = title;
+                        // Create a div to contain the iframe and title
+                        const videoDiv = document.createElement('div');
+                        videoDiv.classList.add('video');
+                        videoDiv.appendChild(iframe);
+                        videoDiv.appendChild(titleDiv);
+                        // Append the video div to the video container
+                        videoContainer.appendChild(videoDiv);
+                    });
+                })
+                .catch(error => console.error('Error fetching YouTube videos:', error));
+        }
+
+        // Call the fetchYouTubeVideos function when the page loads
+        window.onload = fetchYouTubeVideos;
+    </script>
+</body>
+</html>

@@ -1,0 +1,1039 @@
+INFO:root:Downloading NLTK stopwords...
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=DTy5wIBJmKs&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=gIsYLe8lYoc&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=TYWz3YMJM-A&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=4TuJ3jeFksk&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=VcUpIaUHFeQ&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=ihJhyGBzwbE&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=ZuQskfm2Swc&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=nc1yhLxuHeg&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=3sDdxg2Mcfk&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=06CtcTB4ffY&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection: name 're' is not defined
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json
+ERROR:root:Error during data collection: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json
+ERROR:root:Error during data collection: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=defense&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json
+ERROR:root:Error during data collection: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json
+ERROR:root:Error during data collection and recommendation process: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and recommendation process: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json
+ERROR:root:Error during data collection and processing: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json
+ERROR:root:Error during data collection and processing: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json
+ERROR:root:Error during data collection and processing: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json
+ERROR:root:Error during data collection and processing: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=YOUR_DEVELOPER_KEY&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=sports&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=army&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Video data collected and saved successfully.
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=virat+kohli&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Video data collected and saved successfully.
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=virat+kohli&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=aW-jFBRb0Us&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=eXaJP27CW4Y&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=riYWXPmT1FM&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=Of9AgxKNffo&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=5r10-w9PlMw&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=qxXYC15dmpc&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=C3Bwc_9h5e4&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=qZdPHYfKkO4&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=y7YDLEhPfJI&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=yotYWfeSCC8&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Video data collected and saved successfully.
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=z-OMt-fqsCY&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=_lfYn_p0Oho&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=z-OMt-fqsCY&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=_lfYn_p0Oho&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=virat+kohli&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Video data collected and saved successfully.
+INFO:root:Recommended videos generated successfully.
+ERROR:root:Error downloading NLTK stopwords: name 'nltk' is not defined
+ERROR:root:Search query not provided.
+ERROR:root:Error downloading NLTK stopwords: name 'nltk' is not defined
+ERROR:root:Search query not provided.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=virat+kohli&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Video data collected and saved successfully.
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=rohit+sharma&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+INFO:root:Video data collected and saved successfully.
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyDMfGozdg2OP7RlvmEyn6FA-MJn_ywGIIE&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=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&alt=json
+ERROR:root:Error during data collection and processing: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Error during data collection and processing: 'videoId'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Missing 'videoId' for item: {'kind': 'youtube#searchResult', 'etag': 'DuLrDI-mN1SRpjCeGIo_QdQqetk', 'id': {'kind': 'youtube#channel', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ'}, 'snippet': {'publishedAt': '2014-01-27T21:23:06Z', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ', 'title': 'Physics Wallah - Alakh Pandey', 'description': 'Physics is.', 'thumbnails': {'default': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s88-c-k-c0xffffffff-no-rj-mo'}, 'medium': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s240-c-k-c0xffffffff-no-rj-mo'}, 'high': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s800-c-k-c0xffffffff-no-rj-mo'}}, 'channelTitle': 'Physics Wallah - Alakh Pandey', 'liveBroadcastContent': 'none', 'publishTime': '2014-01-27T21:23:06Z'}}
+ERROR:root:Missing 'videoId' for item: {'kind': 'youtube#searchResult', 'etag': '-nVa7r0Qr0jYPWhXo3NFa4tQzF4', 'id': {'kind': 'youtube#channel', 'channelId': 'UCphU2bAGmw304CFAzy0Enuw'}, 'snippet': {'publishedAt': '2020-12-16T07:51:54Z', 'channelId': 'UCphU2bAGmw304CFAzy0Enuw', 'title': 'Physics Wallah Foundation', 'description': 'Physics Wallah Foundation provides the best quality educational content for 10th and 9th grade students, targeting board or ...', 'thumbnails': {'default': {'url': 'https://yt3.ggpht.com/S12bJ9wUUYq8EDG3XAFXZSpGJJKn0jXpuad-gB_EEk5vvDv35rtaPlBn90WjxM2IdTpT4F2534c=s88-c-k-c0xffffffff-no-rj-mo'}, 'medium': {'url': 'https://yt3.ggpht.com/S12bJ9wUUYq8EDG3XAFXZSpGJJKn0jXpuad-gB_EEk5vvDv35rtaPlBn90WjxM2IdTpT4F2534c=s240-c-k-c0xffffffff-no-rj-mo'}, 'high': {'url': 'https://yt3.ggpht.com/S12bJ9wUUYq8EDG3XAFXZSpGJJKn0jXpuad-gB_EEk5vvDv35rtaPlBn90WjxM2IdTpT4F2534c=s800-c-k-c0xffffffff-no-rj-mo'}}, 'channelTitle': 'Physics Wallah Foundation', 'liveBroadcastContent': 'upcoming', 'publishTime': '2020-12-16T07:51:54Z'}}
+INFO:root:Video data collected and saved successfully.
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Missing 'videoId' for item: {'kind': 'youtube#searchResult', 'etag': 'IZ32Tim_CV3DPaXgILgvF4meSP0', 'id': {'kind': 'youtube#channel', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ'}, 'snippet': {'publishedAt': '2014-01-27T21:23:06Z', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ', 'title': 'Physics Wallah - Alakh Pandey', 'description': 'Physics is.', 'thumbnails': {'default': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s88-c-k-c0xffffffff-no-rj-mo'}, 'medium': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s240-c-k-c0xffffffff-no-rj-mo'}, 'high': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s800-c-k-c0xffffffff-no-rj-mo'}}, 'channelTitle': 'Physics Wallah - Alakh Pandey', 'liveBroadcastContent': 'live', 'publishTime': '2014-01-27T21:23:06Z'}}
+ERROR:root:Missing 'videoId' for item: {'kind': 'youtube#searchResult', 'etag': 'pJ8-ijeSMV9FmEzvyykKsND-WBI', 'id': {'kind': 'youtube#channel', 'channelId': 'UCD16eo98AXl-9T61Xd711kQ'}, 'snippet': {'publishedAt': '2021-01-18T13:19:17Z', 'channelId': 'UCD16eo98AXl-9T61Xd711kQ', 'title': 'Competition Wallah', 'description': 'Are you still searching for the best platform to crack NEET 2024? Your hunt will stop here at Competition Wallah. We are offering ...', 'thumbnails': {'default': {'url': 'https://yt3.ggpht.com/y4aXsm5Sa4c0KSLdF7rAP2E6Ku9DD8skwqJt6MDBL2UKutQ8phrwGc9vJ0sf3HDBuox_qtWC=s88-c-k-c0xffffffff-no-rj-mo'}, 'medium': {'url': 'https://yt3.ggpht.com/y4aXsm5Sa4c0KSLdF7rAP2E6Ku9DD8skwqJt6MDBL2UKutQ8phrwGc9vJ0sf3HDBuox_qtWC=s240-c-k-c0xffffffff-no-rj-mo'}, 'high': {'url': 'https://yt3.ggpht.com/y4aXsm5Sa4c0KSLdF7rAP2E6Ku9DD8skwqJt6MDBL2UKutQ8phrwGc9vJ0sf3HDBuox_qtWC=s800-c-k-c0xffffffff-no-rj-mo'}}, 'channelTitle': 'Competition Wallah', 'liveBroadcastContent': 'live', 'publishTime': '2021-01-18T13:19:17Z'}}
+INFO:root:Video data collected and saved successfully.
+INFO:root:Recommended videos generated successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Missing 'videoId' for item: {'kind': 'youtube#searchResult', 'etag': 'J5ldMxnyz4P2re7l0-sphcu1AAc', 'id': {'kind': 'youtube#channel', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ'}, 'snippet': {'publishedAt': '2014-01-27T21:23:06Z', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ', 'title': 'Physics Wallah - Alakh Pandey', 'description': 'Physics is.', 'thumbnails': {'default': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s88-c-k-c0xffffffff-no-rj-mo'}, 'medium': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s240-c-k-c0xffffffff-no-rj-mo'}, 'high': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s800-c-k-c0xffffffff-no-rj-mo'}}, 'channelTitle': 'Physics Wallah - Alakh Pandey', 'liveBroadcastContent': 'live', 'publishTime': '2014-01-27T21:23:06Z'}}
+INFO:root:Video data collected and saved successfully.
+ERROR:root:Error during data collection and processing: argument of type 'WordListCorpusReader' is not iterable
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Missing 'videoId' for item: {'kind': 'youtube#searchResult', 'etag': '-GuGIo3rkawaSUpEAHsAlXZK3G8', 'id': {'kind': 'youtube#channel', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ'}, 'snippet': {'publishedAt': '2014-01-27T21:23:06Z', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ', 'title': 'Physics Wallah - Alakh Pandey', 'description': 'Physics is.', 'thumbnails': {'default': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s88-c-k-c0xffffffff-no-rj-mo'}, 'medium': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s240-c-k-c0xffffffff-no-rj-mo'}, 'high': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s800-c-k-c0xffffffff-no-rj-mo'}}, 'channelTitle': 'Physics Wallah - Alakh Pandey', 'liveBroadcastContent': 'live', 'publishTime': '2014-01-27T21:23:06Z'}}
+INFO:root:Video data collected and saved successfully.
+ERROR:root:Error during data collection and processing: argument of type 'WordListCorpusReader' is not iterable
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Missing 'videoId' for item: {'kind': 'youtube#searchResult', 'etag': 'PHxlIVJUtuLo8T_H_ijF68tOMgQ', 'id': {'kind': 'youtube#channel', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ'}, 'snippet': {'publishedAt': '2014-01-27T21:23:06Z', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ', 'title': 'Physics Wallah - Alakh Pandey', 'description': 'Physics is.', 'thumbnails': {'default': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s88-c-k-c0xffffffff-no-rj-mo'}, 'medium': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s240-c-k-c0xffffffff-no-rj-mo'}, 'high': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s800-c-k-c0xffffffff-no-rj-mo'}}, 'channelTitle': 'Physics Wallah - Alakh Pandey', 'liveBroadcastContent': 'live', 'publishTime': '2014-01-27T21:23:06Z'}}
+INFO:root:Video data collected and saved successfully.
+ERROR:root:Error during data collection and processing: argument of type 'WordListCorpusReader' is not iterable
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Missing 'videoId' for item: {'kind': 'youtube#searchResult', 'etag': 'qsgt7zB9Aa4gkw_qpblbzpfla7s', 'id': {'kind': 'youtube#channel', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ'}, 'snippet': {'publishedAt': '2014-01-27T21:23:06Z', 'channelId': 'UCiGyWN6DEbnj2alu7iapuKQ', 'title': 'Physics Wallah - Alakh Pandey', 'description': 'Physics is.', 'thumbnails': {'default': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s88-c-k-c0xffffffff-no-rj-mo'}, 'medium': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s240-c-k-c0xffffffff-no-rj-mo'}, 'high': {'url': 'https://yt3.ggpht.com/p6qCeZsxT97whgftwJHj_27XuYGi2rTW0hapm1qmwVWXUb8IlUY2LXj5-D0WE2RB_mlPMTkrig=s800-c-k-c0xffffffff-no-rj-mo'}}, 'channelTitle': 'Physics Wallah - Alakh Pandey', 'liveBroadcastContent': 'live', 'publishTime': '2014-01-27T21:23:06Z'}}
+INFO:root:Video data collected and saved successfully.
+ERROR:root:Error during data collection and processing: argument of type 'WordListCorpusReader' is not iterable
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&type=video&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:root:Recommended videos data saved successfully.
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:root:Trending videos data saved successfully.
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&type=video&maxResults=10&key=YOUR_YOUTUBE_API_KEY&alt=json
+ERROR:root:Error during data collection and processing: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&type=video&maxResults=10&key=YOUR_YOUTUBE_API_KEY&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&type=video&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails&id=DiszNQn_NSo%2CFeap2zbEz_k%2CNa9KxXlei-s%2Cs9N1-_xGvJY%2CHWceiVPR6lA%2C41ZX-FJpxeA%2Chd9-1i2J-LM%2CZ1g5q1KRpfE%2CTkZmaamYDSI%2CZmQItNDZa18&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Error during data collection and processing: name 're' is not defined
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&type=video&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails&id=DiszNQn_NSo%2CFeap2zbEz_k%2Cs9N1-_xGvJY%2CNa9KxXlei-s%2CHWceiVPR6lA%2Chd9-1i2J-LM%2CZ1g5q1KRpfE%2CslOAkIY6KVo%2CTkZmaamYDSI%2C8S1ZMeWAbpk&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Error during data collection and processing: 'NoneType' object has no attribute 'group'
+INFO:root:NLTK stopwords downloaded successfully.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&type=video&maxResults=12&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails&id=DiszNQn_NSo%2Cs9N1-_xGvJY%2CZ1g5q1KRpfE%2CgUpS_sBSJbM%2CfZ324iUiQtk%2CNa9KxXlei-s%2C-_ArekVzbCk%2CFCzbxowCmjU%2CHcPqDIqBh1M%2Cebs0vnEKXmQ%2CmqT4zhvpomY%2C1FZj5kJok7k&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Error during data collection and processing: 'NoneType' object has no attribute 'group'
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=100&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=BSpLNnPMMSQ%2Cz-OMt-fqsCY%2C_lfYn_p0Oho%2C10f8le2XIsk%2CZAqIoDhornk%2CEysVhq62624%2C6akmv1bsz1M%2CQXp0ehAqxm0%2CGRt4vPo60b0%2CId0IksGVpMY%2CtBwFRnTzcYY%2CGfSMV84EbgE%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2C8--3HUkMD3U%2CeNOlPIWQIDE%2CKO_4awG065o%2C2xAQfy24udY%2ChZ0L18B72tE%2CZg_OsgKTYBY%2Cg_mSpVVLjvo%2CcXnpQu-NCGI%2CWTETnc0l45Y%2C8wvEcdiXMh8%2Cpdm0e_Uexqc%2Clu4mH3Hmw2o%2Cy17e12Au3RU%2Ct0LUAnEDc7E%2C2BcOv0VYHkY%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CZ6MXWjmx8c0%2COkLJ6DJkYiE%2CMG_znWM5ETk%2CXy3vJEaYOzU%2Cv-aP1J-BdvE%2CCBY63m4Ha_s%2ChOgzWfgevw4%2CC-k3wXoE9v0%2CTOO8pWUsSvU%2CM8FrB2-lWQM%2CUS7fEkBsy4A%2CH0pmqzjG3BI%2CgCjA_3umNpg%2CyYckT0jrMt4%2ChJIr0_KnyFo%2CU65mWdH3nV0&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Missing data for video BSpLNnPMMSQ - 'dislikeCount'
+ERROR:root:Missing data for video z-OMt-fqsCY - 'dislikeCount'
+ERROR:root:Missing data for video _lfYn_p0Oho - 'dislikeCount'
+ERROR:root:Missing data for video 10f8le2XIsk - 'dislikeCount'
+ERROR:root:Missing data for video ZAqIoDhornk - 'dislikeCount'
+ERROR:root:Missing data for video EysVhq62624 - 'dislikeCount'
+ERROR:root:Missing data for video 6akmv1bsz1M - 'dislikeCount'
+ERROR:root:Missing data for video QXp0ehAqxm0 - 'dislikeCount'
+ERROR:root:Missing data for video GRt4vPo60b0 - 'dislikeCount'
+ERROR:root:Missing data for video Id0IksGVpMY - 'dislikeCount'
+ERROR:root:Missing data for video tBwFRnTzcYY - 'dislikeCount'
+ERROR:root:Missing data for video GfSMV84EbgE - 'dislikeCount'
+ERROR:root:Missing data for video 48pZWbXx-Hw - 'dislikeCount'
+ERROR:root:Missing data for video Bbq6dBPG9n4 - 'dislikeCount'
+ERROR:root:Missing data for video jhwvCKrUq9U - 'dislikeCount'
+ERROR:root:Missing data for video 8--3HUkMD3U - 'dislikeCount'
+ERROR:root:Missing data for video eNOlPIWQIDE - 'dislikeCount'
+ERROR:root:Missing data for video KO_4awG065o - 'dislikeCount'
+ERROR:root:Missing data for video 2xAQfy24udY - 'dislikeCount'
+ERROR:root:Missing data for video hZ0L18B72tE - 'dislikeCount'
+ERROR:root:Missing data for video Zg_OsgKTYBY - 'dislikeCount'
+ERROR:root:Missing data for video g_mSpVVLjvo - 'dislikeCount'
+ERROR:root:Missing data for video cXnpQu-NCGI - 'dislikeCount'
+ERROR:root:Missing data for video WTETnc0l45Y - 'dislikeCount'
+ERROR:root:Missing data for video 8wvEcdiXMh8 - 'dislikeCount'
+ERROR:root:Missing data for video pdm0e_Uexqc - 'dislikeCount'
+ERROR:root:Missing data for video lu4mH3Hmw2o - 'dislikeCount'
+ERROR:root:Missing data for video y17e12Au3RU - 'dislikeCount'
+ERROR:root:Missing data for video t0LUAnEDc7E - 'dislikeCount'
+ERROR:root:Missing data for video 2BcOv0VYHkY - 'dislikeCount'
+ERROR:root:Missing data for video i-GxK6Mxmkg - 'dislikeCount'
+ERROR:root:Missing data for video TkZmaamYDSI - 'dislikeCount'
+ERROR:root:Missing data for video ErMSHiQRnc8 - 'dislikeCount'
+ERROR:root:Missing data for video B2P2Qi62dG0 - 'dislikeCount'
+ERROR:root:Missing data for video Z6MXWjmx8c0 - 'dislikeCount'
+ERROR:root:Missing data for video OkLJ6DJkYiE - 'dislikeCount'
+ERROR:root:Missing data for video MG_znWM5ETk - 'dislikeCount'
+ERROR:root:Missing data for video Xy3vJEaYOzU - 'dislikeCount'
+ERROR:root:Missing data for video v-aP1J-BdvE - 'dislikeCount'
+ERROR:root:Missing data for video CBY63m4Ha_s - 'dislikeCount'
+ERROR:root:Missing data for video hOgzWfgevw4 - 'dislikeCount'
+ERROR:root:Missing data for video C-k3wXoE9v0 - 'dislikeCount'
+ERROR:root:Missing data for video TOO8pWUsSvU - 'dislikeCount'
+ERROR:root:Missing data for video M8FrB2-lWQM - 'dislikeCount'
+ERROR:root:Missing data for video US7fEkBsy4A - 'dislikeCount'
+ERROR:root:Missing data for video H0pmqzjG3BI - 'dislikeCount'
+ERROR:root:Missing data for video gCjA_3umNpg - 'dislikeCount'
+ERROR:root:Missing data for video yYckT0jrMt4 - 'dislikeCount'
+ERROR:root:Missing data for video hJIr0_KnyFo - 'dislikeCount'
+ERROR:root:Missing data for video U65mWdH3nV0 - 'dislikeCount'
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=100&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2C48pZWbXx-Hw%2CGfSMV84EbgE%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2C6akmv1bsz1M%2CId0IksGVpMY%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2CDxL2HoqLbyA%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CcXnpQu-NCGI%2C8wvEcdiXMh8%2Cpdm0e_Uexqc%2C8--3HUkMD3U%2Cy17e12Au3RU%2C11lPhMSulSU%2Clu4mH3Hmw2o%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2COkLJ6DJkYiE%2CZihywtixUYo%2C2BcOv0VYHkY%2CZ6MXWjmx8c0%2CB2P2Qi62dG0%2CErMSHiQRnc8%2ChJIr0_KnyFo%2CH0pmqzjG3BI%2CMG_znWM5ETk%2Cv-aP1J-BdvE%2CXy3vJEaYOzU%2CY9vXHrCRji0%2C-6rWqJhDv7M%2ChOgzWfgevw4%2CC-k3wXoE9v0%2CTOO8pWUsSvU%2Ct0LUAnEDc7E%2CM8FrB2-lWQM%2CUS7fEkBsy4A&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Missing data for video z-OMt-fqsCY - 'dislikeCount'
+ERROR:root:Missing data for video _lfYn_p0Oho - 'dislikeCount'
+ERROR:root:Missing data for video BSpLNnPMMSQ - 'dislikeCount'
+ERROR:root:Missing data for video ZAqIoDhornk - 'dislikeCount'
+ERROR:root:Missing data for video EysVhq62624 - 'dislikeCount'
+ERROR:root:Missing data for video 10f8le2XIsk - 'dislikeCount'
+ERROR:root:Missing data for video QXp0ehAqxm0 - 'dislikeCount'
+ERROR:root:Missing data for video tBwFRnTzcYY - 'dislikeCount'
+ERROR:root:Missing data for video GRt4vPo60b0 - 'dislikeCount'
+ERROR:root:Missing data for video 48pZWbXx-Hw - 'dislikeCount'
+ERROR:root:Missing data for video GfSMV84EbgE - 'dislikeCount'
+ERROR:root:Missing data for video Bbq6dBPG9n4 - 'dislikeCount'
+ERROR:root:Missing data for video jhwvCKrUq9U - 'dislikeCount'
+ERROR:root:Missing data for video Zg_OsgKTYBY - 'dislikeCount'
+ERROR:root:Missing data for video 6akmv1bsz1M - 'dislikeCount'
+ERROR:root:Missing data for video Id0IksGVpMY - 'dislikeCount'
+ERROR:root:Missing data for video eNOlPIWQIDE - 'dislikeCount'
+ERROR:root:Missing data for video KO_4awG065o - 'dislikeCount'
+ERROR:root:Missing data for video hZ0L18B72tE - 'dislikeCount'
+ERROR:root:Missing data for video DxL2HoqLbyA - 'dislikeCount'
+ERROR:root:Missing data for video 2xAQfy24udY - 'dislikeCount'
+ERROR:root:Missing data for video g_mSpVVLjvo - 'dislikeCount'
+ERROR:root:Missing data for video cXnpQu-NCGI - 'dislikeCount'
+ERROR:root:Missing data for video 8wvEcdiXMh8 - 'dislikeCount'
+ERROR:root:Missing data for video pdm0e_Uexqc - 'dislikeCount'
+ERROR:root:Missing data for video 8--3HUkMD3U - 'dislikeCount'
+ERROR:root:Missing data for video y17e12Au3RU - 'dislikeCount'
+ERROR:root:Missing data for video 11lPhMSulSU - 'dislikeCount'
+ERROR:root:Missing data for video lu4mH3Hmw2o - 'dislikeCount'
+ERROR:root:Missing data for video i-GxK6Mxmkg - 'dislikeCount'
+ERROR:root:Missing data for video TkZmaamYDSI - 'dislikeCount'
+ERROR:root:Missing data for video OkLJ6DJkYiE - 'dislikeCount'
+ERROR:root:Missing data for video ZihywtixUYo - 'dislikeCount'
+ERROR:root:Missing data for video 2BcOv0VYHkY - 'dislikeCount'
+ERROR:root:Missing data for video Z6MXWjmx8c0 - 'dislikeCount'
+ERROR:root:Missing data for video B2P2Qi62dG0 - 'dislikeCount'
+ERROR:root:Missing data for video ErMSHiQRnc8 - 'dislikeCount'
+ERROR:root:Missing data for video hJIr0_KnyFo - 'dislikeCount'
+ERROR:root:Missing data for video H0pmqzjG3BI - 'dislikeCount'
+ERROR:root:Missing data for video MG_znWM5ETk - 'dislikeCount'
+ERROR:root:Missing data for video v-aP1J-BdvE - 'dislikeCount'
+ERROR:root:Missing data for video Xy3vJEaYOzU - 'dislikeCount'
+ERROR:root:Missing data for video Y9vXHrCRji0 - 'dislikeCount'
+ERROR:root:Missing data for video -6rWqJhDv7M - 'dislikeCount'
+ERROR:root:Missing data for video hOgzWfgevw4 - 'dislikeCount'
+ERROR:root:Missing data for video C-k3wXoE9v0 - 'dislikeCount'
+ERROR:root:Missing data for video TOO8pWUsSvU - 'dislikeCount'
+ERROR:root:Missing data for video t0LUAnEDc7E - 'dislikeCount'
+ERROR:root:Missing data for video M8FrB2-lWQM - 'dislikeCount'
+ERROR:root:Missing data for video US7fEkBsy4A - 'dislikeCount'
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=100&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C_lfYn_p0Oho%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2C48pZWbXx-Hw%2CGfSMV84EbgE%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2C2BcOv0VYHkY%2CDxL2HoqLbyA%2CH0pmqzjG3BI%2Cg_mSpVVLjvo%2C2xAQfy24udY%2CcXnpQu-NCGI%2C8wvEcdiXMh8%2Cpdm0e_Uexqc%2C8--3HUkMD3U%2Cy17e12Au3RU%2C11lPhMSulSU%2Clu4mH3Hmw2o%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2CZihywtixUYo%2CB2P2Qi62dG0%2CErMSHiQRnc8%2COkLJ6DJkYiE%2CZ6MXWjmx8c0%2CMG_znWM5ETk%2ChJIr0_KnyFo%2Cv-aP1J-BdvE%2CXy3vJEaYOzU%2CY9vXHrCRji0%2C-6rWqJhDv7M%2CTOO8pWUsSvU%2ChOgzWfgevw4%2CUS7fEkBsy4A%2Ct0LUAnEDc7E%2CWTETnc0l45Y%2CC-k3wXoE9v0%2CgCjA_3umNpg&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Missing data for video z-OMt-fqsCY - 'dislikeCount'
+ERROR:root:Missing data for video BSpLNnPMMSQ - 'dislikeCount'
+ERROR:root:Missing data for video ZAqIoDhornk - 'dislikeCount'
+ERROR:root:Missing data for video EysVhq62624 - 'dislikeCount'
+ERROR:root:Missing data for video _lfYn_p0Oho - 'dislikeCount'
+ERROR:root:Missing data for video 10f8le2XIsk - 'dislikeCount'
+ERROR:root:Missing data for video QXp0ehAqxm0 - 'dislikeCount'
+ERROR:root:Missing data for video tBwFRnTzcYY - 'dislikeCount'
+ERROR:root:Missing data for video GRt4vPo60b0 - 'dislikeCount'
+ERROR:root:Missing data for video 48pZWbXx-Hw - 'dislikeCount'
+ERROR:root:Missing data for video GfSMV84EbgE - 'dislikeCount'
+ERROR:root:Missing data for video Bbq6dBPG9n4 - 'dislikeCount'
+ERROR:root:Missing data for video jhwvCKrUq9U - 'dislikeCount'
+ERROR:root:Missing data for video Zg_OsgKTYBY - 'dislikeCount'
+ERROR:root:Missing data for video Id0IksGVpMY - 'dislikeCount'
+ERROR:root:Missing data for video eNOlPIWQIDE - 'dislikeCount'
+ERROR:root:Missing data for video KO_4awG065o - 'dislikeCount'
+ERROR:root:Missing data for video hZ0L18B72tE - 'dislikeCount'
+ERROR:root:Missing data for video 2BcOv0VYHkY - 'dislikeCount'
+ERROR:root:Missing data for video DxL2HoqLbyA - 'dislikeCount'
+ERROR:root:Missing data for video H0pmqzjG3BI - 'dislikeCount'
+ERROR:root:Missing data for video g_mSpVVLjvo - 'dislikeCount'
+ERROR:root:Missing data for video 2xAQfy24udY - 'dislikeCount'
+ERROR:root:Missing data for video cXnpQu-NCGI - 'dislikeCount'
+ERROR:root:Missing data for video 8wvEcdiXMh8 - 'dislikeCount'
+ERROR:root:Missing data for video pdm0e_Uexqc - 'dislikeCount'
+ERROR:root:Missing data for video 8--3HUkMD3U - 'dislikeCount'
+ERROR:root:Missing data for video y17e12Au3RU - 'dislikeCount'
+ERROR:root:Missing data for video 11lPhMSulSU - 'dislikeCount'
+ERROR:root:Missing data for video lu4mH3Hmw2o - 'dislikeCount'
+ERROR:root:Missing data for video i-GxK6Mxmkg - 'dislikeCount'
+ERROR:root:Missing data for video TkZmaamYDSI - 'dislikeCount'
+ERROR:root:Missing data for video ZihywtixUYo - 'dislikeCount'
+ERROR:root:Missing data for video B2P2Qi62dG0 - 'dislikeCount'
+ERROR:root:Missing data for video ErMSHiQRnc8 - 'dislikeCount'
+ERROR:root:Missing data for video OkLJ6DJkYiE - 'dislikeCount'
+ERROR:root:Missing data for video Z6MXWjmx8c0 - 'dislikeCount'
+ERROR:root:Missing data for video MG_znWM5ETk - 'dislikeCount'
+ERROR:root:Missing data for video hJIr0_KnyFo - 'dislikeCount'
+ERROR:root:Missing data for video v-aP1J-BdvE - 'dislikeCount'
+ERROR:root:Missing data for video Xy3vJEaYOzU - 'dislikeCount'
+ERROR:root:Missing data for video Y9vXHrCRji0 - 'dislikeCount'
+ERROR:root:Missing data for video -6rWqJhDv7M - 'dislikeCount'
+ERROR:root:Missing data for video TOO8pWUsSvU - 'dislikeCount'
+ERROR:root:Missing data for video hOgzWfgevw4 - 'dislikeCount'
+ERROR:root:Missing data for video US7fEkBsy4A - 'dislikeCount'
+ERROR:root:Missing data for video t0LUAnEDc7E - 'dislikeCount'
+ERROR:root:Missing data for video WTETnc0l45Y - 'dislikeCount'
+ERROR:root:Missing data for video C-k3wXoE9v0 - 'dislikeCount'
+ERROR:root:Missing data for video gCjA_3umNpg - 'dislikeCount'
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2C48pZWbXx-Hw%2CGfSMV84EbgE%2CBbq6dBPG9n4%2C6akmv1bsz1M%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2CDxL2HoqLbyA%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CcXnpQu-NCGI%2C8wvEcdiXMh8%2Cpdm0e_Uexqc%2C8--3HUkMD3U%2Cy17e12Au3RU%2C11lPhMSulSU%2Clu4mH3Hmw2o%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2COkLJ6DJkYiE%2CZihywtixUYo%2C2BcOv0VYHkY%2CZ6MXWjmx8c0%2CB2P2Qi62dG0%2CErMSHiQRnc8%2ChJIr0_KnyFo%2CH0pmqzjG3BI%2CMG_znWM5ETk%2Cv-aP1J-BdvE%2CXy3vJEaYOzU%2CY9vXHrCRji0%2C-6rWqJhDv7M%2ChOgzWfgevw4%2CC-k3wXoE9v0%2CTOO8pWUsSvU%2Ct0LUAnEDc7E%2ChyXkWTWOauw%2CM8FrB2-lWQM&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Missing data for video z-OMt-fqsCY - 'dislikeCount'
+ERROR:root:Missing data for video _lfYn_p0Oho - 'dislikeCount'
+ERROR:root:Missing data for video BSpLNnPMMSQ - 'dislikeCount'
+ERROR:root:Missing data for video ZAqIoDhornk - 'dislikeCount'
+ERROR:root:Missing data for video EysVhq62624 - 'dislikeCount'
+ERROR:root:Missing data for video 10f8le2XIsk - 'dislikeCount'
+ERROR:root:Missing data for video QXp0ehAqxm0 - 'dislikeCount'
+ERROR:root:Missing data for video tBwFRnTzcYY - 'dislikeCount'
+ERROR:root:Missing data for video GRt4vPo60b0 - 'dislikeCount'
+ERROR:root:Missing data for video 48pZWbXx-Hw - 'dislikeCount'
+ERROR:root:Missing data for video GfSMV84EbgE - 'dislikeCount'
+ERROR:root:Missing data for video Bbq6dBPG9n4 - 'dislikeCount'
+ERROR:root:Missing data for video 6akmv1bsz1M - 'dislikeCount'
+ERROR:root:Missing data for video jhwvCKrUq9U - 'dislikeCount'
+ERROR:root:Missing data for video Zg_OsgKTYBY - 'dislikeCount'
+ERROR:root:Missing data for video Id0IksGVpMY - 'dislikeCount'
+ERROR:root:Missing data for video eNOlPIWQIDE - 'dislikeCount'
+ERROR:root:Missing data for video KO_4awG065o - 'dislikeCount'
+ERROR:root:Missing data for video hZ0L18B72tE - 'dislikeCount'
+ERROR:root:Missing data for video DxL2HoqLbyA - 'dislikeCount'
+ERROR:root:Missing data for video 2xAQfy24udY - 'dislikeCount'
+ERROR:root:Missing data for video g_mSpVVLjvo - 'dislikeCount'
+ERROR:root:Missing data for video cXnpQu-NCGI - 'dislikeCount'
+ERROR:root:Missing data for video 8wvEcdiXMh8 - 'dislikeCount'
+ERROR:root:Missing data for video pdm0e_Uexqc - 'dislikeCount'
+ERROR:root:Missing data for video 8--3HUkMD3U - 'dislikeCount'
+ERROR:root:Missing data for video y17e12Au3RU - 'dislikeCount'
+ERROR:root:Missing data for video 11lPhMSulSU - 'dislikeCount'
+ERROR:root:Missing data for video lu4mH3Hmw2o - 'dislikeCount'
+ERROR:root:Missing data for video i-GxK6Mxmkg - 'dislikeCount'
+ERROR:root:Missing data for video TkZmaamYDSI - 'dislikeCount'
+ERROR:root:Missing data for video OkLJ6DJkYiE - 'dislikeCount'
+ERROR:root:Missing data for video ZihywtixUYo - 'dislikeCount'
+ERROR:root:Missing data for video 2BcOv0VYHkY - 'dislikeCount'
+ERROR:root:Missing data for video Z6MXWjmx8c0 - 'dislikeCount'
+ERROR:root:Missing data for video B2P2Qi62dG0 - 'dislikeCount'
+ERROR:root:Missing data for video ErMSHiQRnc8 - 'dislikeCount'
+ERROR:root:Missing data for video hJIr0_KnyFo - 'dislikeCount'
+ERROR:root:Missing data for video H0pmqzjG3BI - 'dislikeCount'
+ERROR:root:Missing data for video MG_znWM5ETk - 'dislikeCount'
+ERROR:root:Missing data for video v-aP1J-BdvE - 'dislikeCount'
+ERROR:root:Missing data for video Xy3vJEaYOzU - 'dislikeCount'
+ERROR:root:Missing data for video Y9vXHrCRji0 - 'dislikeCount'
+ERROR:root:Missing data for video -6rWqJhDv7M - 'dislikeCount'
+ERROR:root:Missing data for video hOgzWfgevw4 - 'dislikeCount'
+ERROR:root:Missing data for video C-k3wXoE9v0 - 'dislikeCount'
+ERROR:root:Missing data for video TOO8pWUsSvU - 'dislikeCount'
+ERROR:root:Missing data for video t0LUAnEDc7E - 'dislikeCount'
+ERROR:root:Missing data for video hyXkWTWOauw - 'dislikeCount'
+ERROR:root:Missing data for video M8FrB2-lWQM - 'dislikeCount'
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2C6akmv1bsz1M%2C48pZWbXx-Hw%2CGfSMV84EbgE%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CDxL2HoqLbyA%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2C11lPhMSulSU%2Clu4mH3Hmw2o%2C2BcOv0VYHkY%2CZihywtixUYo%2CcXnpQu-NCGI%2C8wvEcdiXMh8%2Cpdm0e_Uexqc%2CErMSHiQRnc8%2C8--3HUkMD3U%2Cy17e12Au3RU%2Cv-aP1J-BdvE%2C-6rWqJhDv7M%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2COkLJ6DJkYiE%2CUS7fEkBsy4A%2CZ6MXWjmx8c0%2CB2P2Qi62dG0%2ChJIr0_KnyFo%2CH0pmqzjG3BI%2CMG_znWM5ETk%2CAZsmyTE3j9o%2CXy3vJEaYOzU%2CY9vXHrCRji0%2Cw2ILA2P_n6M%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CC-k3wXoE9v0&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:Missing data for video z-OMt-fqsCY - 'dislikeCount'
+ERROR:root:Missing data for video _lfYn_p0Oho - 'dislikeCount'
+ERROR:root:Missing data for video BSpLNnPMMSQ - 'dislikeCount'
+ERROR:root:Missing data for video ZAqIoDhornk - 'dislikeCount'
+ERROR:root:Missing data for video EysVhq62624 - 'dislikeCount'
+ERROR:root:Missing data for video 10f8le2XIsk - 'dislikeCount'
+ERROR:root:Missing data for video QXp0ehAqxm0 - 'dislikeCount'
+ERROR:root:Missing data for video tBwFRnTzcYY - 'dislikeCount'
+ERROR:root:Missing data for video GRt4vPo60b0 - 'dislikeCount'
+ERROR:root:Missing data for video 6akmv1bsz1M - 'dislikeCount'
+ERROR:root:Missing data for video 48pZWbXx-Hw - 'dislikeCount'
+ERROR:root:Missing data for video GfSMV84EbgE - 'dislikeCount'
+ERROR:root:Missing data for video Bbq6dBPG9n4 - 'dislikeCount'
+ERROR:root:Missing data for video jhwvCKrUq9U - 'dislikeCount'
+ERROR:root:Missing data for video Zg_OsgKTYBY - 'dislikeCount'
+ERROR:root:Missing data for video Id0IksGVpMY - 'dislikeCount'
+ERROR:root:Missing data for video DxL2HoqLbyA - 'dislikeCount'
+ERROR:root:Missing data for video eNOlPIWQIDE - 'dislikeCount'
+ERROR:root:Missing data for video KO_4awG065o - 'dislikeCount'
+ERROR:root:Missing data for video hZ0L18B72tE - 'dislikeCount'
+ERROR:root:Missing data for video 2xAQfy24udY - 'dislikeCount'
+ERROR:root:Missing data for video g_mSpVVLjvo - 'dislikeCount'
+ERROR:root:Missing data for video 11lPhMSulSU - 'dislikeCount'
+ERROR:root:Missing data for video lu4mH3Hmw2o - 'dislikeCount'
+ERROR:root:Missing data for video 2BcOv0VYHkY - 'dislikeCount'
+ERROR:root:Missing data for video ZihywtixUYo - 'dislikeCount'
+ERROR:root:Missing data for video cXnpQu-NCGI - 'dislikeCount'
+ERROR:root:Missing data for video 8wvEcdiXMh8 - 'dislikeCount'
+ERROR:root:Missing data for video pdm0e_Uexqc - 'dislikeCount'
+ERROR:root:Missing data for video ErMSHiQRnc8 - 'dislikeCount'
+ERROR:root:Missing data for video 8--3HUkMD3U - 'dislikeCount'
+ERROR:root:Missing data for video y17e12Au3RU - 'dislikeCount'
+ERROR:root:Missing data for video v-aP1J-BdvE - 'dislikeCount'
+ERROR:root:Missing data for video -6rWqJhDv7M - 'dislikeCount'
+ERROR:root:Missing data for video i-GxK6Mxmkg - 'dislikeCount'
+ERROR:root:Missing data for video TkZmaamYDSI - 'dislikeCount'
+ERROR:root:Missing data for video OkLJ6DJkYiE - 'dislikeCount'
+ERROR:root:Missing data for video US7fEkBsy4A - 'dislikeCount'
+ERROR:root:Missing data for video Z6MXWjmx8c0 - 'dislikeCount'
+ERROR:root:Missing data for video B2P2Qi62dG0 - 'dislikeCount'
+ERROR:root:Missing data for video hJIr0_KnyFo - 'dislikeCount'
+ERROR:root:Missing data for video H0pmqzjG3BI - 'dislikeCount'
+ERROR:root:Missing data for video MG_znWM5ETk - 'dislikeCount'
+ERROR:root:Missing data for video AZsmyTE3j9o - 'dislikeCount'
+ERROR:root:Missing data for video Xy3vJEaYOzU - 'dislikeCount'
+ERROR:root:Missing data for video Y9vXHrCRji0 - 'dislikeCount'
+ERROR:root:Missing data for video w2ILA2P_n6M - 'dislikeCount'
+ERROR:root:Missing data for video hOgzWfgevw4 - 'dislikeCount'
+ERROR:root:Missing data for video TOO8pWUsSvU - 'dislikeCount'
+ERROR:root:Missing data for video C-k3wXoE9v0 - 'dislikeCount'
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=ZAqIoDhornk%2CBSpLNnPMMSQ%2Cz-OMt-fqsCY%2C_lfYn_p0Oho%2C6akmv1bsz1M%2C10f8le2XIsk%2CEysVhq62624%2CBbq6dBPG9n4%2CGRt4vPo60b0%2CQXp0ehAqxm0%2CDxL2HoqLbyA%2CtBwFRnTzcYY%2Cg_mSpVVLjvo%2C48pZWbXx-Hw%2CGfSMV84EbgE%2CId0IksGVpMY%2C11lPhMSulSU%2Clu4mH3Hmw2o%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2C2BcOv0VYHkY%2CZihywtixUYo%2C8wvEcdiXMh8%2Cpdm0e_Uexqc%2CErMSHiQRnc8%2Cy17e12Au3RU%2Cv-aP1J-BdvE%2C-6rWqJhDv7M%2Ci-GxK6Mxmkg%2CUS7fEkBsy4A%2C2xAQfy24udY%2CB2P2Qi62dG0%2CeNOlPIWQIDE%2CAZsmyTE3j9o%2CKO_4awG065o%2CY9vXHrCRji0%2ChZ0L18B72tE%2Cw2ILA2P_n6M%2CTkZmaamYDSI%2CM8FrB2-lWQM%2C8--3HUkMD3U%2CUsu9xZfabPM%2CWTETnc0l45Y%2CTTHazQeM8v8%2CDt5cFLN65fI%2CCBY63m4Ha_s%2CPagl1zg0j4A%2CfmQ7O22P3Vw%2C068rdc75mHM%2CTu4DaH2MIg4&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C_lfYn_p0Oho%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2CGfSMV84EbgE&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2C10f8le2XIsk%2CZAqIoDhornk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2C6akmv1bsz1M&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=YOUR_QUERY&type=video&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=xx5zKf4PV5k%2CsxF6JnMLbgA%2CihMf9_keY74%2ChrJskfEXmv8%2C5sCmRbeuF7g%2CNHGzdU03gaE%2CW13H23MtB2I%2C_veZee4zZ5s%2CDR-baIbrHyU%2CfVPV-R9VHJc&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2CGfSMV84EbgE&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=10&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2CBSpLNnPMMSQ%2C_lfYn_p0Oho%2C10f8le2XIsk%2CZAqIoDhornk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2CGfSMV84EbgE&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2CBSpLNnPMMSQ%2C_lfYn_p0Oho%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2C6akmv1bsz1M%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CGfSMV84EbgE%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CDxL2HoqLbyA%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2Cg_mSpVVLjvo%2Clu4mH3Hmw2o%2C2xAQfy24udY%2C11lPhMSulSU%2CZihywtixUYo%2C2BcOv0VYHkY%2C8wvEcdiXMh8%2Cpdm0e_Uexqc%2CErMSHiQRnc8%2CcXnpQu-NCGI%2Cv-aP1J-BdvE%2C-6rWqJhDv7M%2Cy17e12Au3RU%2C8--3HUkMD3U%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2CUS7fEkBsy4A%2CB2P2Qi62dG0%2COkLJ6DJkYiE%2CAZsmyTE3j9o%2CH0pmqzjG3BI%2CZ6MXWjmx8c0%2CMG_znWM5ETk%2CXy3vJEaYOzU%2CY9vXHrCRji0%2ChJIr0_KnyFo%2Cw2ILA2P_n6M%2CM8FrB2-lWQM%2CTOO8pWUsSvU%2CyYckT0jrMt4&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C_lfYn_p0Oho%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2C48pZWbXx-Hw%2CGfSMV84EbgE%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2C2BcOv0VYHkY%2CDxL2HoqLbyA%2CH0pmqzjG3BI%2Cg_mSpVVLjvo%2C2xAQfy24udY%2CcXnpQu-NCGI%2C8wvEcdiXMh8%2Cpdm0e_Uexqc%2Cy17e12Au3RU%2Clu4mH3Hmw2o%2C11lPhMSulSU%2Ci-GxK6Mxmkg%2C8--3HUkMD3U%2CTkZmaamYDSI%2CZihywtixUYo%2CB2P2Qi62dG0%2CErMSHiQRnc8%2COkLJ6DJkYiE%2CZ6MXWjmx8c0%2CMG_znWM5ETk%2Cv-aP1J-BdvE%2ChJIr0_KnyFo%2C-6rWqJhDv7M%2CXy3vJEaYOzU%2CY9vXHrCRji0%2CTOO8pWUsSvU%2CUS7fEkBsy4A%2ChOgzWfgevw4%2CyYckT0jrMt4%2CC-k3wXoE9v0%2CcUxIb3Pt-hQ%2CgCjA_3umNpg&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2C6akmv1bsz1M%2C48pZWbXx-Hw%2CGfSMV84EbgE%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CDxL2HoqLbyA%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2Cg_mSpVVLjvo%2C2xAQfy24udY%2Clu4mH3Hmw2o%2C11lPhMSulSU%2CZihywtixUYo%2CcXnpQu-NCGI%2C2BcOv0VYHkY%2C8wvEcdiXMh8%2Cpdm0e_Uexqc%2CErMSHiQRnc8%2Cv-aP1J-BdvE%2C8--3HUkMD3U%2C-6rWqJhDv7M%2Cy17e12Au3RU%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2CUS7fEkBsy4A%2COkLJ6DJkYiE%2CB2P2Qi62dG0%2ChJIr0_KnyFo%2CZ6MXWjmx8c0%2CAZsmyTE3j9o%2CMG_znWM5ETk%2CH0pmqzjG3BI%2CXy3vJEaYOzU%2CY9vXHrCRji0%2Cw2ILA2P_n6M%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CM8FrB2-lWQM&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=ZAqIoDhornk%2CBSpLNnPMMSQ%2Cz-OMt-fqsCY%2C_lfYn_p0Oho%2CBbq6dBPG9n4%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CGRt4vPo60b0%2CtBwFRnTzcYY%2CDxL2HoqLbyA%2Cg_mSpVVLjvo%2CGfSMV84EbgE%2C48pZWbXx-Hw%2CId0IksGVpMY%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2C8wvEcdiXMh8%2Cpdm0e_Uexqc%2C2xAQfy24udY%2Cy17e12Au3RU%2Clu4mH3Hmw2o%2C11lPhMSulSU%2Ci-GxK6Mxmkg%2CZihywtixUYo%2C2BcOv0VYHkY%2CB2P2Qi62dG0%2CErMSHiQRnc8%2Cv-aP1J-BdvE%2CeNOlPIWQIDE%2C-6rWqJhDv7M%2CKO_4awG065o%2ChZ0L18B72tE%2CY9vXHrCRji0%2CTkZmaamYDSI%2CUS7fEkBsy4A%2CM8FrB2-lWQM%2CAZsmyTE3j9o%2C8--3HUkMD3U%2CWTETnc0l45Y%2CPagl1zg0j4A%2Cw2ILA2P_n6M%2CTu4DaH2MIg4%2ChOgzWfgevw4%2ChJIr0_KnyFo%2CUsu9xZfabPM%2CH0pmqzjG3BI%2CXy3vJEaYOzU%2CJYpGPRA9-xk%2COkLJ6DJkYiE&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2C6akmv1bsz1M%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CGRt4vPo60b0%2CtBwFRnTzcYY%2C48pZWbXx-Hw%2CGfSMV84EbgE%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2CDxL2HoqLbyA%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CcXnpQu-NCGI%2C8wvEcdiXMh8%2Cpdm0e_Uexqc%2C8--3HUkMD3U%2Cy17e12Au3RU%2Clu4mH3Hmw2o%2C11lPhMSulSU%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2COkLJ6DJkYiE%2CZihywtixUYo%2C2BcOv0VYHkY%2CB2P2Qi62dG0%2CZ6MXWjmx8c0%2ChJIr0_KnyFo%2CErMSHiQRnc8%2CMG_znWM5ETk%2CH0pmqzjG3BI%2Cv-aP1J-BdvE%2C-6rWqJhDv7M%2CXy3vJEaYOzU%2CY9vXHrCRji0%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CUS7fEkBsy4A%2CC-k3wXoE9v0%2CM8FrB2-lWQM%2CyYckT0jrMt4&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2C48pZWbXx-Hw%2CGfSMV84EbgE%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2C6akmv1bsz1M%2CId0IksGVpMY%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2CDxL2HoqLbyA%2C2xAQfy24udY%2Cg_mSpVVLjvo%2C8wvEcdiXMh8%2CcXnpQu-NCGI%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2Cy17e12Au3RU%2C11lPhMSulSU%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2CZihywtixUYo%2C2BcOv0VYHkY%2COkLJ6DJkYiE%2Cpdm0e_Uexqc%2CB2P2Qi62dG0%2ChJIr0_KnyFo%2CZ6MXWjmx8c0%2CErMSHiQRnc8%2Cv-aP1J-BdvE%2CH0pmqzjG3BI%2CMG_znWM5ETk%2C-6rWqJhDv7M%2CY9vXHrCRji0%2CXy3vJEaYOzU%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CUS7fEkBsy4A%2CM8FrB2-lWQM%2CC-k3wXoE9v0%2CyYckT0jrMt4&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2CGfSMV84EbgE%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2C6akmv1bsz1M%2CId0IksGVpMY%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2C2xAQfy24udY%2CZg_OsgKTYBY%2Cg_mSpVVLjvo%2CcXnpQu-NCGI%2Cpdm0e_Uexqc%2C8--3HUkMD3U%2Cy17e12Au3RU%2Clu4mH3Hmw2o%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2C2BcOv0VYHkY%2COkLJ6DJkYiE%2CB2P2Qi62dG0%2CZ6MXWjmx8c0%2CErMSHiQRnc8%2Cv-aP1J-BdvE%2CMG_znWM5ETk%2CXy3vJEaYOzU%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CUS7fEkBsy4A%2CC-k3wXoE9v0%2CM8FrB2-lWQM%2CyYckT0jrMt4%2ChJIr0_KnyFo%2CU65mWdH3nV0%2CWTETnc0l45Y%2CAZsmyTE3j9o%2CH0pmqzjG3BI%2CgCjA_3umNpg%2Ct0LUAnEDc7E%2CqJ2XX136pFY&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=BSpLNnPMMSQ%2Cz-OMt-fqsCY%2CZAqIoDhornk%2C_lfYn_p0Oho%2C10f8le2XIsk%2CtBwFRnTzcYY%2CBbq6dBPG9n4%2CQXp0ehAqxm0%2CGRt4vPo60b0%2CEysVhq62624%2C6akmv1bsz1M%2CZg_OsgKTYBY%2CjhwvCKrUq9U%2CDxL2HoqLbyA%2CGfSMV84EbgE%2CId0IksGVpMY%2C48pZWbXx-Hw%2ChZ0L18B72tE%2CeNOlPIWQIDE%2C2xAQfy24udY%2CKO_4awG065o%2CZihywtixUYo%2Clu4mH3Hmw2o%2Ci-GxK6Mxmkg%2CUS7fEkBsy4A%2C11lPhMSulSU%2Cg_mSpVVLjvo%2C8wvEcdiXMh8%2CB2P2Qi62dG0%2C8--3HUkMD3U%2Cv-aP1J-BdvE%2CErMSHiQRnc8%2C2BcOv0VYHkY%2CAZsmyTE3j9o%2CTOO8pWUsSvU%2ChJIr0_KnyFo%2Cw2ILA2P_n6M%2Cpdm0e_Uexqc%2CcUxIb3Pt-hQ%2Ct0LUAnEDc7E%2CmYcLuWHzfmE%2C-6rWqJhDv7M%2COkLJ6DJkYiE%2CM8FrB2-lWQM%2CcXnpQu-NCGI%2CTkZmaamYDSI%2ChOgzWfgevw4%2CH0pmqzjG3BI%2CTTHazQeM8v8%2Cxo-2RmZNNwU&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=_lfYn_p0Oho%2Cz-OMt-fqsCY%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2CGfSMV84EbgE%2CId0IksGVpMY%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2C6akmv1bsz1M%2CZg_OsgKTYBY%2CKO_4awG065o%2CeNOlPIWQIDE%2ChZ0L18B72tE%2C8--3HUkMD3U%2C2xAQfy24udY%2Cg_mSpVVLjvo%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2CcXnpQu-NCGI%2Ci-GxK6Mxmkg%2Cy17e12Au3RU%2Clu4mH3Hmw2o%2CTkZmaamYDSI%2C2BcOv0VYHkY%2CB2P2Qi62dG0%2CErMSHiQRnc8%2CZ6MXWjmx8c0%2Cv-aP1J-BdvE%2CMG_znWM5ETk%2CXy3vJEaYOzU%2Ct0LUAnEDc7E%2CUS7fEkBsy4A%2CC-k3wXoE9v0%2CTOO8pWUsSvU%2CH0pmqzjG3BI%2CWTETnc0l45Y%2CAZsmyTE3j9o%2COkLJ6DJkYiE%2ChJIr0_KnyFo%2CgCjA_3umNpg%2CqJ2XX136pFY%2CKBe3h_LgzvU%2CZihywtixUYo%2Cxo-2RmZNNwU&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2CGfSMV84EbgE%2C48pZWbXx-Hw%2C6akmv1bsz1M%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CId0IksGVpMY%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2C2xAQfy24udY%2CZg_OsgKTYBY%2Cg_mSpVVLjvo%2Clu4mH3Hmw2o%2C2BcOv0VYHkY%2CcXnpQu-NCGI%2Cpdm0e_Uexqc%2CErMSHiQRnc8%2C8wvEcdiXMh8%2Cv-aP1J-BdvE%2C8--3HUkMD3U%2Cy17e12Au3RU%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2CUS7fEkBsy4A%2COkLJ6DJkYiE%2CB2P2Qi62dG0%2CAZsmyTE3j9o%2CZ6MXWjmx8c0%2CZihywtixUYo%2CMG_znWM5ETk%2CXy3vJEaYOzU%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CM8FrB2-lWQM%2CC-k3wXoE9v0%2CyYckT0jrMt4%2ChJIr0_KnyFo%2CUsu9xZfabPM%2CgCjA_3umNpg%2CH0pmqzjG3BI%2CWTETnc0l45Y&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2CBSpLNnPMMSQ%2C_lfYn_p0Oho%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGRt4vPo60b0%2C48pZWbXx-Hw%2CGfSMV84EbgE%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2C6akmv1bsz1M%2CId0IksGVpMY%2CeNOlPIWQIDE%2CKO_4awG065o%2ChZ0L18B72tE%2CDxL2HoqLbyA%2C2xAQfy24udY%2Cg_mSpVVLjvo%2C8wvEcdiXMh8%2CcXnpQu-NCGI%2Cpdm0e_Uexqc%2Clu4mH3Hmw2o%2Cy17e12Au3RU%2C11lPhMSulSU%2Ci-GxK6Mxmkg%2C8--3HUkMD3U%2CTkZmaamYDSI%2CZihywtixUYo%2COkLJ6DJkYiE%2C2BcOv0VYHkY%2CB2P2Qi62dG0%2CZ6MXWjmx8c0%2CErMSHiQRnc8%2CMG_znWM5ETk%2Cv-aP1J-BdvE%2CH0pmqzjG3BI%2ChJIr0_KnyFo%2C-6rWqJhDv7M%2CXy3vJEaYOzU%2CY9vXHrCRji0%2CUS7fEkBsy4A%2CTOO8pWUsSvU%2CC-k3wXoE9v0%2CM8FrB2-lWQM%2CyYckT0jrMt4%2ChOgzWfgevw4&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CGfSMV84EbgE%2CQXp0ehAqxm0%2CQjIxdSShFdg%2CWTETnc0l45Y%2CtBwFRnTzcYY%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2C11lPhMSulSU%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2Cy17e12Au3RU%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2CcXnpQu-NCGI%2ChJIr0_KnyFo%2CZ6MXWjmx8c0%2COkLJ6DJkYiE%2Cv-aP1J-BdvE%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CXy3vJEaYOzU%2CMG_znWM5ETk%2CmYcLuWHzfmE%2CUS7fEkBsy4A%2CZihywtixUYo%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CAZsmyTE3j9o%2CC-k3wXoE9v0%2CyYckT0jrMt4%2Cw2ILA2P_n6M&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CGfSMV84EbgE%2CQXp0ehAqxm0%2CQjIxdSShFdg%2CWTETnc0l45Y%2CtBwFRnTzcYY%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2C11lPhMSulSU%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2Cy17e12Au3RU%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2CcXnpQu-NCGI%2ChJIr0_KnyFo%2CZ6MXWjmx8c0%2COkLJ6DJkYiE%2Cv-aP1J-BdvE%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CXy3vJEaYOzU%2CMG_znWM5ETk%2CmYcLuWHzfmE%2CUS7fEkBsy4A%2CZihywtixUYo%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CAZsmyTE3j9o%2CC-k3wXoE9v0%2CyYckT0jrMt4%2Cw2ILA2P_n6M&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CGfSMV84EbgE%2CQXp0ehAqxm0%2CQjIxdSShFdg%2CWTETnc0l45Y%2CtBwFRnTzcYY%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CKO_4awG065o%2CId0IksGVpMY%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2C8--3HUkMD3U%2C8wvEcdiXMh8%2Clu4mH3Hmw2o%2C11lPhMSulSU%2Cpdm0e_Uexqc%2Cy17e12Au3RU%2C2BcOv0VYHkY%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2ChJIr0_KnyFo%2CZ6MXWjmx8c0%2COkLJ6DJkYiE%2Cv-aP1J-BdvE%2CErMSHiQRnc8%2CcXnpQu-NCGI%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CXy3vJEaYOzU%2CM8FrB2-lWQM%2CY9vXHrCRji0%2CMG_znWM5ETk%2CUS7fEkBsy4A%2CZihywtixUYo%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CAZsmyTE3j9o%2CC-k3wXoE9v0&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CQjIxdSShFdg%2CBbq6dBPG9n4%2C48pZWbXx-Hw%2CGfSMV84EbgE%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CWTETnc0l45Y%2CKO_4awG065o%2CcXnpQu-NCGI%2CeNOlPIWQIDE%2ChZ0L18B72tE%2CDxL2HoqLbyA%2C2xAQfy24udY%2Cg_mSpVVLjvo%2C8wvEcdiXMh8%2C8--3HUkMD3U%2CqJ2XX136pFY%2Clu4mH3Hmw2o%2Ci-GxK6Mxmkg%2C11lPhMSulSU%2CTkZmaamYDSI%2COkLJ6DJkYiE%2CmYcLuWHzfmE%2CB2P2Qi62dG0%2C2BcOv0VYHkY%2CUS7fEkBsy4A%2CZ6MXWjmx8c0%2Cy17e12Au3RU%2CM8FrB2-lWQM%2CMG_znWM5ETk%2CyYckT0jrMt4%2CTOO8pWUsSvU%2ChJIr0_KnyFo%2ChOgzWfgevw4%2Cpdm0e_Uexqc%2CErMSHiQRnc8%2CZihywtixUYo%2CXy3vJEaYOzU%2CC-k3wXoE9v0%2CAZsmyTE3j9o%2CH0pmqzjG3BI&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CQXp0ehAqxm0%2CWTETnc0l45Y%2CQjIxdSShFdg%2CtBwFRnTzcYY%2CGfSMV84EbgE%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CId0IksGVpMY%2CKO_4awG065o%2CcXnpQu-NCGI%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2C2xAQfy24udY%2Cg_mSpVVLjvo%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2Cy17e12Au3RU%2C2BcOv0VYHkY%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2CZ6MXWjmx8c0%2COkLJ6DJkYiE%2CUS7fEkBsy4A%2Cv-aP1J-BdvE%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CM8FrB2-lWQM%2CZihywtixUYo%2CMG_znWM5ETk%2ChJIr0_KnyFo%2ChOgzWfgevw4%2CH0pmqzjG3BI%2CTOO8pWUsSvU%2CAZsmyTE3j9o%2CC-k3wXoE9v0%2CyYckT0jrMt4%2CXy3vJEaYOzU%2CqJ2XX136pFY%2CgCjA_3umNpg&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CQjIxdSShFdg%2CGfSMV84EbgE%2CBbq6dBPG9n4%2C48pZWbXx-Hw%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CcXnpQu-NCGI%2CDxL2HoqLbyA%2ChZ0L18B72tE%2CjhwvCKrUq9U%2CWTETnc0l45Y%2CZg_OsgKTYBY%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2C2BcOv0VYHkY%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2COkLJ6DJkYiE%2CZ6MXWjmx8c0%2CUS7fEkBsy4A%2Cv-aP1J-BdvE%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CM8FrB2-lWQM%2CZihywtixUYo%2CMG_znWM5ETk%2ChJIr0_KnyFo%2ChOgzWfgevw4%2CH0pmqzjG3BI%2CTOO8pWUsSvU%2CAZsmyTE3j9o%2CC-k3wXoE9v0%2CyYckT0jrMt4%2Ct0LUAnEDc7E%2CXy3vJEaYOzU%2CgCjA_3umNpg&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:KeyError: 'videoId' - Video data at index 15 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 17 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 2 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 0 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 9 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 7 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 14 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 4 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 8 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 6 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 5 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 3 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 15 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 17 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 2 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 0 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 9 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 7 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 14 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 4 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 8 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 6 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 5 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 3 is missing expected keys.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=ZAqIoDhornk%2CBSpLNnPMMSQ%2C_lfYn_p0Oho%2Cz-OMt-fqsCY%2C10f8le2XIsk%2CBbq6dBPG9n4%2CWTETnc0l45Y%2CtBwFRnTzcYY%2CQjIxdSShFdg%2CGfSMV84EbgE%2CId0IksGVpMY%2CDxL2HoqLbyA%2C48pZWbXx-Hw%2CEysVhq62624%2Cg_mSpVVLjvo%2Cy17e12Au3RU%2CQXp0ehAqxm0%2Ci-GxK6Mxmkg%2C2xAQfy24udY%2CKO_4awG065o%2CcXnpQu-NCGI%2CB2P2Qi62dG0%2Clu4mH3Hmw2o%2CM8FrB2-lWQM%2CeNOlPIWQIDE%2CTkZmaamYDSI%2Cpdm0e_Uexqc%2ChZ0L18B72tE%2C8--3HUkMD3U%2C2BcOv0VYHkY%2CjhwvCKrUq9U%2Cv-aP1J-BdvE%2CUS7fEkBsy4A%2CZg_OsgKTYBY%2CPagl1zg0j4A%2C8wvEcdiXMh8%2CTu4DaH2MIg4%2CZihywtixUYo%2CErMSHiQRnc8%2ChOgzWfgevw4%2CAZsmyTE3j9o%2CyYckT0jrMt4%2CH0pmqzjG3BI%2CXy3vJEaYOzU%2COkLJ6DJkYiE%2CqJ2XX136pFY%2ChJIr0_KnyFo%2CbUmULlGACEI%2CgCjA_3umNpg%2C11lPhMSulSU&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:KeyError: 'videoId' - Video data at index 19 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 3 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 16 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 13 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 0 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 9 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 20 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 7 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 14 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 2 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 8 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 12 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 19 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 3 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 16 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 13 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 0 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 9 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 20 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 7 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 14 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 2 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 8 is missing expected keys.
+ERROR:root:KeyError: 'videoId' - Video data at index 12 is missing expected keys.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CGfSMV84EbgE%2CQXp0ehAqxm0%2CQjIxdSShFdg%2CWTETnc0l45Y%2CtBwFRnTzcYY%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2Clu4mH3Hmw2o%2C8wvEcdiXMh8%2C11lPhMSulSU%2C8--3HUkMD3U%2Cpdm0e_Uexqc%2C2BcOv0VYHkY%2Cy17e12Au3RU%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2ChJIr0_KnyFo%2CZ6MXWjmx8c0%2COkLJ6DJkYiE%2CH0pmqzjG3BI%2CUS7fEkBsy4A%2CErMSHiQRnc8%2CcXnpQu-NCGI%2CB2P2Qi62dG0%2CM8FrB2-lWQM%2CMG_znWM5ETk%2CmYcLuWHzfmE%2CZihywtixUYo%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CAZsmyTE3j9o%2CC-k3wXoE9v0%2CyYckT0jrMt4%2CXy3vJEaYOzU&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:KeyError: 'videoId' missing at index 4.
+ERROR:root:KeyError: 'videoId' missing at index 16.
+ERROR:root:KeyError: 'videoId' missing at index 0.
+ERROR:root:KeyError: 'videoId' missing at index 10.
+ERROR:root:KeyError: 'videoId' missing at index 8.
+ERROR:root:KeyError: 'videoId' missing at index 7.
+ERROR:root:KeyError: 'videoId' missing at index 15.
+ERROR:root:KeyError: 'videoId' missing at index 14.
+ERROR:root:KeyError: 'videoId' missing at index 1.
+ERROR:root:KeyError: 'videoId' missing at index 9.
+ERROR:root:KeyError: 'videoId' missing at index 6.
+ERROR:root:KeyError: 'videoId' missing at index 3.
+ERROR:root:KeyError: 'videoId' missing at index 4.
+ERROR:root:KeyError: 'videoId' missing at index 16.
+ERROR:root:KeyError: 'videoId' missing at index 0.
+ERROR:root:KeyError: 'videoId' missing at index 10.
+ERROR:root:KeyError: 'videoId' missing at index 8.
+ERROR:root:KeyError: 'videoId' missing at index 7.
+ERROR:root:KeyError: 'videoId' missing at index 15.
+ERROR:root:KeyError: 'videoId' missing at index 14.
+ERROR:root:KeyError: 'videoId' missing at index 1.
+ERROR:root:KeyError: 'videoId' missing at index 9.
+ERROR:root:KeyError: 'videoId' missing at index 6.
+ERROR:root:KeyError: 'videoId' missing at index 3.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CWTETnc0l45Y%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CQjIxdSShFdg%2CtBwFRnTzcYY%2CGfSMV84EbgE%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CDxL2HoqLbyA%2CeNOlPIWQIDE%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2Clu4mH3Hmw2o%2C11lPhMSulSU%2CZihywtixUYo%2C2BcOv0VYHkY%2CqJ2XX136pFY%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2C8--3HUkMD3U%2Cy17e12Au3RU%2CErMSHiQRnc8%2CTkZmaamYDSI%2CcXnpQu-NCGI%2Ci-GxK6Mxmkg%2CUS7fEkBsy4A%2ChJIr0_KnyFo%2COkLJ6DJkYiE%2CZ6MXWjmx8c0%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CAZsmyTE3j9o%2Cw2ILA2P_n6M%2CMG_znWM5ETk%2C580V0wRl1Lo%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CUsu9xZfabPM%2CC-k3wXoE9v0%2CyYckT0jrMt4&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=BSpLNnPMMSQ%2Cz-OMt-fqsCY%2C_lfYn_p0Oho%2CZAqIoDhornk%2C10f8le2XIsk%2CGfSMV84EbgE%2CEysVhq62624%2CQXp0ehAqxm0%2CQjIxdSShFdg%2CtBwFRnTzcYY%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2C48pZWbXx-Hw%2CId0IksGVpMY%2CKO_4awG065o%2CDxL2HoqLbyA%2CeNOlPIWQIDE%2ChZ0L18B72tE%2C2xAQfy24udY%2CWTETnc0l45Y%2Cg_mSpVVLjvo%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2Ci-GxK6Mxmkg%2C8wvEcdiXMh8%2C11lPhMSulSU%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2CB2P2Qi62dG0%2ChJIr0_KnyFo%2CTkZmaamYDSI%2Cv-aP1J-BdvE%2CmYcLuWHzfmE%2CUS7fEkBsy4A%2CErMSHiQRnc8%2COkLJ6DJkYiE%2CZihywtixUYo%2CH0pmqzjG3BI%2CTOO8pWUsSvU%2CZ6MXWjmx8c0%2CAZsmyTE3j9o%2CXy3vJEaYOzU%2ChOgzWfgevw4%2Cw2ILA2P_n6M%2CMG_znWM5ETk%2Ct0LUAnEDc7E%2CyYckT0jrMt4%2CcUxIb3Pt-hQ%2Cxo-2RmZNNwU&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+ERROR:root:KeyError: 'videoId' missing at index 18.
+ERROR:root:KeyError: 'videoId' missing at index 3.
+ERROR:root:KeyError: 'videoId' missing at index 0.
+ERROR:root:KeyError: 'videoId' missing at index 10.
+ERROR:root:KeyError: 'videoId' missing at index 9.
+ERROR:root:KeyError: 'videoId' missing at index 7.
+ERROR:root:KeyError: 'videoId' missing at index 16.
+ERROR:root:KeyError: 'videoId' missing at index 13.
+ERROR:root:KeyError: 'videoId' missing at index 6.
+ERROR:root:KeyError: 'videoId' missing at index 11.
+ERROR:root:KeyError: 'videoId' missing at index 4.
+ERROR:root:KeyError: 'videoId' missing at index 5.
+ERROR:root:KeyError: 'videoId' missing at index 18.
+ERROR:root:KeyError: 'videoId' missing at index 3.
+ERROR:root:KeyError: 'videoId' missing at index 0.
+ERROR:root:KeyError: 'videoId' missing at index 10.
+ERROR:root:KeyError: 'videoId' missing at index 9.
+ERROR:root:KeyError: 'videoId' missing at index 7.
+ERROR:root:KeyError: 'videoId' missing at index 16.
+ERROR:root:KeyError: 'videoId' missing at index 13.
+ERROR:root:KeyError: 'videoId' missing at index 6.
+ERROR:root:KeyError: 'videoId' missing at index 11.
+ERROR:root:KeyError: 'videoId' missing at index 4.
+ERROR:root:KeyError: 'videoId' missing at index 5.
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CWTETnc0l45Y%2CQjIxdSShFdg%2CtBwFRnTzcYY%2CGfSMV84EbgE%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2C11lPhMSulSU%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2Cy17e12Au3RU%2Ci-GxK6Mxmkg%2CTkZmaamYDSI%2CcXnpQu-NCGI%2ChJIr0_KnyFo%2CZ6MXWjmx8c0%2COkLJ6DJkYiE%2Cv-aP1J-BdvE%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CXy3vJEaYOzU%2CMG_znWM5ETk%2CmYcLuWHzfmE%2CUS7fEkBsy4A%2CZihywtixUYo%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CAZsmyTE3j9o%2CC-k3wXoE9v0%2CyYckT0jrMt4%2Cw2ILA2P_n6M&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=ZAqIoDhornk%2CBSpLNnPMMSQ%2CWTETnc0l45Y%2Cz-OMt-fqsCY%2C_lfYn_p0Oho%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CQjIxdSShFdg%2CDxL2HoqLbyA%2CtBwFRnTzcYY%2CGfSMV84EbgE%2CId0IksGVpMY%2Clu4mH3Hmw2o%2C48pZWbXx-Hw%2Cg_mSpVVLjvo%2C2BcOv0VYHkY%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2C11lPhMSulSU%2CZg_OsgKTYBY%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2CErMSHiQRnc8%2Cy17e12Au3RU%2Ci-GxK6Mxmkg%2C2xAQfy24udY%2CUS7fEkBsy4A%2CKO_4awG065o%2CmYcLuWHzfmE%2CZihywtixUYo%2Cw2ILA2P_n6M%2CAZsmyTE3j9o%2CeNOlPIWQIDE%2C580V0wRl1Lo%2CcXnpQu-NCGI%2CTkZmaamYDSI%2CB2P2Qi62dG0%2CbUmULlGACEI%2C8--3HUkMD3U%2ChZ0L18B72tE%2CM8FrB2-lWQM%2C068rdc75mHM%2Cb1t41Q3xRM8%2CMR8aTK00Jm0%2CTTHazQeM8v8%2CPagl1zg0j4A%2CTu4DaH2MIg4%2CTFlVWf8JX4A%2CQp3i3h5U7u8&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=ZAqIoDhornk%2CBSpLNnPMMSQ%2Cz-OMt-fqsCY%2C_lfYn_p0Oho%2CWTETnc0l45Y%2C10f8le2XIsk%2CEysVhq62624%2CBbq6dBPG9n4%2CQjIxdSShFdg%2CQXp0ehAqxm0%2CDxL2HoqLbyA%2CtBwFRnTzcYY%2CGfSMV84EbgE%2CId0IksGVpMY%2C48pZWbXx-Hw%2Cg_mSpVVLjvo%2Clu4mH3Hmw2o%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2Cy17e12Au3RU%2C2BcOv0VYHkY%2Ci-GxK6Mxmkg%2C2xAQfy24udY%2CKO_4awG065o%2CUS7fEkBsy4A%2Cv-aP1J-BdvE%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CcXnpQu-NCGI%2CeNOlPIWQIDE%2CM8FrB2-lWQM%2CZihywtixUYo%2C8--3HUkMD3U%2CTkZmaamYDSI%2CAZsmyTE3j9o%2ChZ0L18B72tE%2CjhwvCKrUq9U%2CQp3i3h5U7u8%2CPagl1zg0j4A%2CZg_OsgKTYBY%2CbUmULlGACEI%2CTu4DaH2MIg4%2CUsu9xZfabPM%2ChOgzWfgevw4%2C11lPhMSulSU%2CTFlVWf8JX4A%2CtxlCvCSefYQ%2Cb1t41Q3xRM8%2CK-Fc08X56R0%2CMR8aTK00Jm0&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CWTETnc0l45Y%2CQjIxdSShFdg%2CtBwFRnTzcYY%2CGfSMV84EbgE%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CcXnpQu-NCGI%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2C11lPhMSulSU%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2Cy17e12Au3RU%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2COkLJ6DJkYiE%2ChJIr0_KnyFo%2CZ6MXWjmx8c0%2CUS7fEkBsy4A%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CM8FrB2-lWQM%2CMG_znWM5ETk%2CmYcLuWHzfmE%2CZihywtixUYo%2ChOgzWfgevw4%2CAZsmyTE3j9o%2CTOO8pWUsSvU%2CC-k3wXoE9v0%2CyYckT0jrMt4%2CXy3vJEaYOzU&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CWTETnc0l45Y%2CQXp0ehAqxm0%2CQjIxdSShFdg%2CtBwFRnTzcYY%2CBbq6dBPG9n4%2CGfSMV84EbgE%2C48pZWbXx-Hw%2CId0IksGVpMY%2CDxL2HoqLbyA%2CKO_4awG065o%2CcXnpQu-NCGI%2CeNOlPIWQIDE%2ChZ0L18B72tE%2CjhwvCKrUq9U%2Cg_mSpVVLjvo%2C2xAQfy24udY%2CZg_OsgKTYBY%2Clu4mH3Hmw2o%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2C8--3HUkMD3U%2C2BcOv0VYHkY%2Cy17e12Au3RU%2Ci-GxK6Mxmkg%2CqJ2XX136pFY%2CTkZmaamYDSI%2CUS7fEkBsy4A%2Cv-aP1J-BdvE%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CM8FrB2-lWQM%2CZihywtixUYo%2COkLJ6DJkYiE%2CZ6MXWjmx8c0%2CAZsmyTE3j9o%2ChOgzWfgevw4%2ChJIr0_KnyFo%2CQp3i3h5U7u8%2CH0pmqzjG3BI%2CPagl1zg0j4A%2CMG_znWM5ETk%2CyYckT0jrMt4%2CXy3vJEaYOzU%2Ct0LUAnEDc7E&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=ZAqIoDhornk%2CBSpLNnPMMSQ%2Cz-OMt-fqsCY%2C_lfYn_p0Oho%2CWTETnc0l45Y%2CEysVhq62624%2C10f8le2XIsk%2CBbq6dBPG9n4%2CQjIxdSShFdg%2CQXp0ehAqxm0%2CDxL2HoqLbyA%2CtBwFRnTzcYY%2CGfSMV84EbgE%2CId0IksGVpMY%2C48pZWbXx-Hw%2Cg_mSpVVLjvo%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2Clu4mH3Hmw2o%2C11lPhMSulSU%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2Cy17e12Au3RU%2Ci-GxK6Mxmkg%2C2xAQfy24udY%2CKO_4awG065o%2Cv-aP1J-BdvE%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CeNOlPIWQIDE%2CmYcLuWHzfmE%2CUS7fEkBsy4A%2CZihywtixUYo%2CTkZmaamYDSI%2C8--3HUkMD3U%2ChZ0L18B72tE%2CAZsmyTE3j9o%2Cw2ILA2P_n6M%2CPagl1zg0j4A%2CQp3i3h5U7u8%2CbUmULlGACEI%2CTu4DaH2MIg4%2ChJIr0_KnyFo%2ChOgzWfgevw4%2CTTHazQeM8v8%2CTFlVWf8JX4A%2CXy3vJEaYOzU%2CtxlCvCSefYQ%2C068rdc75mHM&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CWTETnc0l45Y%2CQjIxdSShFdg%2CtBwFRnTzcYY%2CGfSMV84EbgE%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CcXnpQu-NCGI%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2C11lPhMSulSU%2Cpdm0e_Uexqc%2C2BcOv0VYHkY%2C8wvEcdiXMh8%2Cy17e12Au3RU%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2ChJIr0_KnyFo%2COkLJ6DJkYiE%2CUS7fEkBsy4A%2CZ6MXWjmx8c0%2Cv-aP1J-BdvE%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CXy3vJEaYOzU%2CMG_znWM5ETk%2CZihywtixUYo%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CAZsmyTE3j9o%2CC-k3wXoE9v0%2CgCjA_3umNpg%2CyYckT0jrMt4&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CWTETnc0l45Y%2CQjIxdSShFdg%2CtBwFRnTzcYY%2CGfSMV84EbgE%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2C11lPhMSulSU%2Cpdm0e_Uexqc%2Clu4mH3Hmw2o%2C8wvEcdiXMh8%2C8--3HUkMD3U%2Cy17e12Au3RU%2C2BcOv0VYHkY%2CTkZmaamYDSI%2CcXnpQu-NCGI%2Ci-GxK6Mxmkg%2ChJIr0_KnyFo%2CZ6MXWjmx8c0%2COkLJ6DJkYiE%2CH0pmqzjG3BI%2CUS7fEkBsy4A%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CZihywtixUYo%2CM8FrB2-lWQM%2CMG_znWM5ETk%2CmYcLuWHzfmE%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CAZsmyTE3j9o%2CC-k3wXoE9v0%2CyYckT0jrMt4%2CXy3vJEaYOzU&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=BSpLNnPMMSQ%2Cz-OMt-fqsCY%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2C_lfYn_p0Oho%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CQjIxdSShFdg%2CGfSMV84EbgE%2CWTETnc0l45Y%2C48pZWbXx-Hw%2CjhwvCKrUq9U%2CBbq6dBPG9n4%2CId0IksGVpMY%2CZg_OsgKTYBY%2C2BcOv0VYHkY%2CDxL2HoqLbyA%2CKO_4awG065o%2CeNOlPIWQIDE%2CH0pmqzjG3BI%2C11lPhMSulSU%2ChZ0L18B72tE%2C2xAQfy24udY%2Clu4mH3Hmw2o%2Cg_mSpVVLjvo%2Cpdm0e_Uexqc%2CqJ2XX136pFY%2CUS7fEkBsy4A%2CErMSHiQRnc8%2CZihywtixUYo%2C8wvEcdiXMh8%2C8--3HUkMD3U%2CcXnpQu-NCGI%2Cy17e12Au3RU%2CTkZmaamYDSI%2Cb1t41Q3xRM8%2Ci-GxK6Mxmkg%2Cw2ILA2P_n6M%2CAZsmyTE3j9o%2CMR8aTK00Jm0%2C580V0wRl1Lo%2CB2P2Qi62dG0%2CZ6MXWjmx8c0%2CTFlVWf8JX4A%2COkLJ6DJkYiE%2CMG_znWM5ETk%2CTTHazQeM8v8%2ChJIr0_KnyFo%2CUsu9xZfabPM&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2CEysVhq62624%2C10f8le2XIsk%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CQjIxdSShFdg%2CWTETnc0l45Y%2CGfSMV84EbgE%2CBbq6dBPG9n4%2C48pZWbXx-Hw%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2CcXnpQu-NCGI%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2Clu4mH3Hmw2o%2C8--3HUkMD3U%2C11lPhMSulSU%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2Cy17e12Au3RU%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2CUS7fEkBsy4A%2COkLJ6DJkYiE%2CZ6MXWjmx8c0%2ChJIr0_KnyFo%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CZihywtixUYo%2CmYcLuWHzfmE%2CMG_znWM5ETk%2CM8FrB2-lWQM%2CAZsmyTE3j9o%2ChOgzWfgevw4%2CC-k3wXoE9v0%2CyYckT0jrMt4%2CTOO8pWUsSvU%2Cw2ILA2P_n6M&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CQjIxdSShFdg%2CWTETnc0l45Y%2CGfSMV84EbgE%2CBbq6dBPG9n4%2C48pZWbXx-Hw%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2Clu4mH3Hmw2o%2C8--3HUkMD3U%2C8wvEcdiXMh8%2C11lPhMSulSU%2Cpdm0e_Uexqc%2Cy17e12Au3RU%2C2BcOv0VYHkY%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2CcXnpQu-NCGI%2Cv-aP1J-BdvE%2CZ6MXWjmx8c0%2ChJIr0_KnyFo%2CErMSHiQRnc8%2COkLJ6DJkYiE%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CUS7fEkBsy4A%2CZihywtixUYo%2CXy3vJEaYOzU%2CMG_znWM5ETk%2CM8FrB2-lWQM%2ChOgzWfgevw4%2CC-k3wXoE9v0%2CTOO8pWUsSvU%2CyYckT0jrMt4%2CgCjA_3umNpg&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CQjIxdSShFdg%2CWTETnc0l45Y%2CGfSMV84EbgE%2CBbq6dBPG9n4%2C48pZWbXx-Hw%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2Clu4mH3Hmw2o%2C8--3HUkMD3U%2C11lPhMSulSU%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2C8wvEcdiXMh8%2Cy17e12Au3RU%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2CcXnpQu-NCGI%2CUS7fEkBsy4A%2COkLJ6DJkYiE%2CZ6MXWjmx8c0%2ChJIr0_KnyFo%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CZihywtixUYo%2CmYcLuWHzfmE%2CMG_znWM5ETk%2CM8FrB2-lWQM%2CAZsmyTE3j9o%2ChOgzWfgevw4%2CC-k3wXoE9v0%2CyYckT0jrMt4%2CTOO8pWUsSvU%2Cw2ILA2P_n6M&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CQjIxdSShFdg%2CWTETnc0l45Y%2CGfSMV84EbgE%2CBbq6dBPG9n4%2C48pZWbXx-Hw%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2C11lPhMSulSU%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2Cy17e12Au3RU%2C8wvEcdiXMh8%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2CcXnpQu-NCGI%2Cv-aP1J-BdvE%2CZ6MXWjmx8c0%2ChJIr0_KnyFo%2COkLJ6DJkYiE%2CErMSHiQRnc8%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CUS7fEkBsy4A%2CZihywtixUYo%2CXy3vJEaYOzU%2CmYcLuWHzfmE%2CMG_znWM5ETk%2CAZsmyTE3j9o%2ChOgzWfgevw4%2CyYckT0jrMt4%2CC-k3wXoE9v0%2CTOO8pWUsSvU&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CQjIxdSShFdg%2CGfSMV84EbgE%2CWTETnc0l45Y%2CBbq6dBPG9n4%2C48pZWbXx-Hw%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2C11lPhMSulSU%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2Cy17e12Au3RU%2C8wvEcdiXMh8%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2CcXnpQu-NCGI%2Cv-aP1J-BdvE%2ChJIr0_KnyFo%2CErMSHiQRnc8%2COkLJ6DJkYiE%2CZ6MXWjmx8c0%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CUS7fEkBsy4A%2CZihywtixUYo%2CXy3vJEaYOzU%2CmYcLuWHzfmE%2CMG_znWM5ETk%2CAZsmyTE3j9o%2ChOgzWfgevw4%2CC-k3wXoE9v0%2CyYckT0jrMt4%2CTOO8pWUsSvU&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:3000
+DEBUG:urllib3.connectionpool:http://localhost:3000 "GET /userdata HTTP/1.1" 401 12
+ERROR:root:Failed to fetch user data. Status code: 401
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=QScZK4xrXA0%2CwCxBPW-S3-s%2CbwaM4sQS1Ek%2CPDl6BiKWOho%2CRD-Mnvzzo1A%2C-nJkAJpQemI%2CKG6B4gVOXzA%2CLUUIY7Fnzts%2CR0f6lLM8cMk%2CfeNIBPr8Imc%2CXO-eKHw5Jqw%2Co4CZDdjDFzg%2C2aJbRXpwBbw%2Cdtik09T90fI%2CYwJpD2s3HiU%2C36DhvU7NsfE%2CjEVbQjOuA3Y%2COnBgO_6lRZc%2C16sjZZttsuU%2CJdAIvVLSYRE%2C1yacpLDb-WA%2C5sCTlg6IZXg%2CV5W2e4XjXPc%2CAL2xUN_eP50%2CHn2OxuyHGiI%2CVC335NT0WY0%2Cxnk2QgPGh5o%2CanGXBT7dgxQ%2CkN6HHzEXKFU%2CvoK6fLv8tps%2CQZPTLblnFJg%2C_sXOFDiy3VE%2CTzf2mowdOdw%2CFtsJNiKFtHY%2CoKStYmMgNRA%2Clf-VC3cw3rw%2CjhfvXSz0mH8%2CAWOrp9Jvw2k%2CK4By2930LVA%2C3aMR3PA2_H8%2CooZ6Gd06GNM%2CiE6fBeZUZIM%2CdGVhipnxFhU%2CgbBq5KsCfic%2CodHc-pEdKvA%2CsBrOe7pcRRs%2Cm34DYXXN3KM%2CHjM0Wd6IgbA%2CFmPmPP4Jlcw%2CexRv2IZ4dKs&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:3000
+DEBUG:urllib3.connectionpool:http://localhost:3000 "GET /userdata HTTP/1.1" 401 12
+ERROR:root:Failed to fetch user data. Status code: 401
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=zgulL6-k6ME%2CaW9WAOo11yc%2CLUUIY7Fnzts%2ChkF7FMtNuz0%2CqhJTX0mszPo%2CajJEXS09DUE%2C02Cp54o3rlY%2Co4CZDdjDFzg%2Cupp122f47Sw%2C5rlSwFAgrtA%2C36DhvU7NsfE%2CfwsFdXemuK0%2CGHQl3S1Zh_0%2CSN4biRiv344%2CBMadvm4wioc%2CcBWkOySvxWE%2CAL2xUN_eP50%2Cxnk2QgPGh5o%2CanGXBT7dgxQ%2CvoK6fLv8tps%2CQZPTLblnFJg%2C_sXOFDiy3VE%2CFtsJNiKFtHY%2CoKStYmMgNRA%2Clf-VC3cw3rw%2CuWVqJtURH-w%2CPc9cPBc0hKE%2CjhfvXSz0mH8%2CEWHlXkZaixM%2C6-aAY8FvRHk%2C3aMR3PA2_H8%2CooZ6Gd06GNM%2CcovuWu3hlv4%2COlFk-2t7oqk%2CCtCWikq7M_s%2CodHc-pEdKvA%2C8NkaMMPbiFk%2Cm34DYXXN3KM%2CFJIAzuSaasE%2C-0n8sEC-8Gs%2CicV-yzEQNNI%2CDccLxgQPpX4%2ChvDz7DwugYY%2CqUdHx2zX4Uo%2C5BJo0D-e8hY%2CMnLhYXD1Ql8%2C-6x9JO6vxGY%2Ci_vMTBFQ87M%2C9GF8s2goJMw%2CYeEl03p-HsA&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:3000
+DEBUG:urllib3.connectionpool:http://localhost:3000 "GET /userdata HTTP/1.1" 401 12
+ERROR:root:Failed to fetch user data. Status code: 401
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=iw6WHxRmPMM%2C2W4ZNSwoW_4%2CLUUIY7Fnzts%2CfAVc_uBSIMA%2CyLfRiacYx6w%2CcrzJw2oYl_8%2Cp91kN8mfO1s%2Co4CZDdjDFzg%2C36DhvU7NsfE%2CidCHgY9r798%2CDgAZp90bcVU%2CWSbj_oTeCMc%2CcJEAM-9vz0E%2CAL2xUN_eP50%2Cxnk2QgPGh5o%2CanGXBT7dgxQ%2CkN6HHzEXKFU%2CvoK6fLv8tps%2CQZPTLblnFJg%2C_sXOFDiy3VE%2CFtsJNiKFtHY%2CoKStYmMgNRA%2Clf-VC3cw3rw%2Ccf1NIlx4poQ%2CjhfvXSz0mH8%2CjghHddgBx10%2CAWOrp9Jvw2k%2CEjOFYbaLZC4%2C3aMR3PA2_H8%2CooZ6Gd06GNM%2CpN8Bo4CnAxI%2CbhI8fXpg9hQ%2Cgw_Y7X3yLjc%2CodHc-pEdKvA%2CsBrOe7pcRRs%2Cm34DYXXN3KM%2CXB0QJDH0ZaE%2CD3DIwayBQH0%2CU2XMNXtosZQ%2Cqku-L7gm9kA%2CrFHDyTo9qEM%2Cekmw3xKnFwQ%2CjvgIKnlbWTU%2CqUdHx2zX4Uo%2Ci_vMTBFQ87M%2CLw3YBNRb2zg%2Cx2OR_pIBNEg%2Ca9TQJHEdBgM%2CGysHBroxVT0%2CCIvK-4uEaS8&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:3000
+DEBUG:urllib3.connectionpool:http://localhost:3000 "GET /userdata HTTP/1.1" 401 12
+ERROR:root:Failed to fetch user data. Status code: 401
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=GkmIjfaBh78%2CGuNZttnNXZU%2CzgulL6-k6ME%2Co3Ybh9lYq74%2Ciw6WHxRmPMM%2CaW9WAOo11yc%2CLUUIY7Fnzts%2CRXvbqU5Hfc8%2CqhJTX0mszPo%2CAhJpav2rjac%2CajJEXS09DUE%2CyLfRiacYx6w%2Cj-2c-7m4Dc0%2CahQg_Vk6_4s%2Csty2_AIf8-w%2Cupp122f47Sw%2CIs8Q3MBbVMg%2Cd4GGIbP2YC0%2C36DhvU7NsfE%2Cn6toSQ3htSQ%2CaqYwsL6ryE4%2CdufpGoZmoHg%2Ci8Go35Eb3mM%2CidCHgY9r798%2CBMadvm4wioc%2CAL2xUN_eP50%2CFF-LOT5ykzU%2CvoK6fLv8tps%2CQZPTLblnFJg%2C_sXOFDiy3VE%2Clf-VC3cw3rw%2CCusyZLbvtPc%2CuWVqJtURH-w%2Ci3mjljMp39A%2CAWOrp9Jvw2k%2C8y4XB0U-bPU%2CJSslJ7h0kYM%2CEWHlXkZaixM%2C6-aAY8FvRHk%2C3aMR3PA2_H8%2CcovuWu3hlv4%2COlFk-2t7oqk%2CZTOvyoNx4wI%2C2ya8Oww8xWo%2CpM1CUp4zEgs%2C-mZnD5ko-NQ%2Cm34DYXXN3KM%2CfeNIBPr8Imc%2CojleohFmFbE%2CcrzJw2oYl_8&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:3000
+DEBUG:urllib3.connectionpool:http://localhost:3000 "GET /userdata HTTP/1.1" 401 12
+ERROR:root:Failed to fetch user data. Status code: 401
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=Z7WSbF_rKU8%2ClAPmk59i9qI%2CGJXju8UCMng%2Ce0UrxFPJaFc%2CLUUIY7Fnzts%2CvcgW5wSlmEo%2Cox7dPXDskDg%2CculLHuKaYfE%2CO7s43SPQr_I%2CZf6ZkVX3I4k%2CYP_Wwg-pHaE%2Cbcvn5XonkjQ%2C5ViDycgLOhc%2C36DhvU7NsfE%2C-6jT2Z80oH4%2CkqsLNwb6qdQ%2CUb6JXZF5TJU%2C8nyTLR5YdIw%2Cj2-yKAv-0ag%2CwoxWObrWXGg%2Cpodc9wDNmds%2Ct36Fvj_w65E%2ChfxoEw7oP74%2CEqstN0cyXWc%2CK4sQHS4UrwA%2C18068_Yo834%2Ckvyq7nYep2Q%2CAL2xUN_eP50%2CpOS0kvuc3pc%2CvoK6fLv8tps%2CQZPTLblnFJg%2C_sXOFDiy3VE%2CFtsJNiKFtHY%2CoKStYmMgNRA%2Clf-VC3cw3rw%2ChMhs3BL8xcQ%2CjhfvXSz0mH8%2C3aMR3PA2_H8%2COlFk-2t7oqk%2CUU01JJhb0ng%2CXP3j17lZJWQ%2CMUwvDQ7icXc%2Cm34DYXXN3KM%2C_oC7cAaEq7U%2C2yCQeOKMEv0%2CrFHDyTo9qEM%2CL0RktSIM980%2CDccLxgQPpX4%2CqF6_ZiDHjIU%2CEV5bR-rd5w4&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:3000
+DEBUG:urllib3.connectionpool:http://localhost:3000 "GET /userdata HTTP/1.1" 401 12
+ERROR:root:Failed to fetch user data. Status code: 401
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=&type=video&maxResults=50&key=YOUR_API_KEY&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:3000
+DEBUG:urllib3.connectionpool:http://localhost:3000 "GET /userdata HTTP/1.1" 401 12
+ERROR:root:Failed to fetch user data. Status code: 401
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=Z7WSbF_rKU8%2ClAPmk59i9qI%2CGJXju8UCMng%2Ce0UrxFPJaFc%2CLUUIY7Fnzts%2CYP_Wwg-pHaE%2CvcgW5wSlmEo%2Cox7dPXDskDg%2CculLHuKaYfE%2CO7s43SPQr_I%2CZf6ZkVX3I4k%2C-6jT2Z80oH4%2Cbcvn5XonkjQ%2Cr6q5Sd-YVyE%2C36DhvU7NsfE%2C5ViDycgLOhc%2CwoxWObrWXGg%2CAL2xUN_eP50%2Cpodc9wDNmds%2CkqsLNwb6qdQ%2Cj2-yKAv-0ag%2CQZPTLblnFJg%2CUb6JXZF5TJU%2CvoK6fLv8tps%2C_sXOFDiy3VE%2Clf-VC3cw3rw%2CEqstN0cyXWc%2C8nyTLR5YdIw%2CjhfvXSz0mH8%2C3aMR3PA2_H8%2CUU01JJhb0ng%2ChfxoEw7oP74%2Ct36Fvj_w65E%2CK4sQHS4UrwA%2Cm34DYXXN3KM%2CpOS0kvuc3pc%2CXP3j17lZJWQ%2CMUwvDQ7icXc%2ChTcX_sQ5U3s%2CFtsJNiKFtHY%2CoKStYmMgNRA%2C_oC7cAaEq7U%2C2yCQeOKMEv0%2Ci_vMTBFQ87M%2Ca9TQJHEdBgM%2C3gUI9pjUJDQ%2CCIvK-4uEaS8%2CEV5bR-rd5w4%2CV1izvKJmhS0%2CHEm7eL7wynk&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:3000
+DEBUG:urllib3.connectionpool:http://localhost:3000 "GET /userdata HTTP/1.1" 401 12
+ERROR:root:Failed to fetch user data. Status code: 401
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=QScZK4xrXA0%2CwCxBPW-S3-s%2CbwaM4sQS1Ek%2CPDl6BiKWOho%2CRD-Mnvzzo1A%2C-nJkAJpQemI%2CKG6B4gVOXzA%2CLUUIY7Fnzts%2CR0f6lLM8cMk%2CfeNIBPr8Imc%2CXO-eKHw5Jqw%2CIfo9YR45YmQ%2Co4CZDdjDFzg%2C2aJbRXpwBbw%2CDFYaNjzI1aI%2Cdtik09T90fI%2CYwJpD2s3HiU%2C36DhvU7NsfE%2CjEVbQjOuA3Y%2COnBgO_6lRZc%2C1yacpLDb-WA%2C5sCTlg6IZXg%2CV5W2e4XjXPc%2CAL2xUN_eP50%2CHn2OxuyHGiI%2CVC335NT0WY0%2Cxnk2QgPGh5o%2CanGXBT7dgxQ%2CvoK6fLv8tps%2CQZPTLblnFJg%2C-UA2RZBei4g%2C_sXOFDiy3VE%2CTzf2mowdOdw%2CFtsJNiKFtHY%2CoKStYmMgNRA%2Clf-VC3cw3rw%2CjhfvXSz0mH8%2Cgr1IWOUfdVI%2CK4By2930LVA%2C3aMR3PA2_H8%2CooZ6Gd06GNM%2CcovuWu3hlv4%2CpM1CUp4zEgs%2CiE6fBeZUZIM%2CdGVhipnxFhU%2CodHc-pEdKvA%2Cm34DYXXN3KM%2CHjM0Wd6IgbA%2CFmPmPP4Jlcw%2CexRv2IZ4dKs&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CQjIxdSShFdg%2CWTETnc0l45Y%2CGfSMV84EbgE%2CBbq6dBPG9n4%2C48pZWbXx-Hw%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2CjhwvCKrUq9U%2ChZ0L18B72tE%2CZg_OsgKTYBY%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2Cy17e12Au3RU%2C8wvEcdiXMh8%2CTkZmaamYDSI%2CcXnpQu-NCGI%2Ci-GxK6Mxmkg%2Cv-aP1J-BdvE%2CZ6MXWjmx8c0%2CErMSHiQRnc8%2COkLJ6DJkYiE%2CB2P2Qi62dG0%2CZihywtixUYo%2CUS7fEkBsy4A%2CXy3vJEaYOzU%2CMG_znWM5ETk%2CAZsmyTE3j9o%2ChOgzWfgevw4%2ChJIr0_KnyFo%2CyYckT0jrMt4%2CC-k3wXoE9v0%2CTOO8pWUsSvU%2CH0pmqzjG3BI%2CgCjA_3umNpg%2CQp3i3h5U7u8&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics+wallah&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=acZpClySY8M%2CWTETnc0l45Y%2Cqh9wKvQmvyU%2CFeap2zbEz_k%2CNa9KxXlei-s%2CUImIzkBh3lo%2CslOAkIY6KVo%2CvZqpIKAWLno%2CAa2GXjeYslI%2CmqT4zhvpomY%2CJg5a8-QUJzg%2COPs9ELmm5nk%2CqwismQbazBA%2C41ZX-FJpxeA%2C8S1ZMeWAbpk%2Chd9-1i2J-LM%2CZmQItNDZa18%2CHWceiVPR6lA%2CNtb7Uw0JDto%2CfivAuW0dm5I%2CfaGvkArY0vc%2COjnkIP25HCI%2CcueIWWDWj_c%2Cgr9mFLq-WUg%2CULKes_TtbPs%2ChnprNYfAQCA%2CQy6Eeu-bB9o%2CZ1g5q1KRpfE%2CHWpzN33GYZ4%2CTkZmaamYDSI%2CsLaB7GIFdCo%2CCS2NsqmUK3s%2CXomRCf7AbG0%2C2yl3bweui58%2CCI7v8xBGGI0%2CSo29qIZeKvM%2C21VufGWHSIs%2CoRpB-YF1QsU%2CWYy1XQeUni4%2CAcx3K-UYq1Q%2Cwp_8-R2Yqig%2CquhJhrqRiBc%2CA7sPDDBOEtc%2Cp4UTDWkx95A%2C2PW7N3wp9HQ%2Cj0G-7BqVTpE%2Crj9mNd_sLdc%2Cm11V1HUYilw%2CjvILgt0WFT0%2Cg7qAkBbmQpU&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CQjIxdSShFdg%2CWTETnc0l45Y%2CGfSMV84EbgE%2CBbq6dBPG9n4%2C48pZWbXx-Hw%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2C8--3HUkMD3U%2Clu4mH3Hmw2o%2C11lPhMSulSU%2C2BcOv0VYHkY%2Cpdm0e_Uexqc%2Cy17e12Au3RU%2C8wvEcdiXMh8%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2CcXnpQu-NCGI%2CUS7fEkBsy4A%2Cv-aP1J-BdvE%2CZ6MXWjmx8c0%2ChJIr0_KnyFo%2CErMSHiQRnc8%2COkLJ6DJkYiE%2CB2P2Qi62dG0%2CH0pmqzjG3BI%2CZihywtixUYo%2CXy3vJEaYOzU%2CmYcLuWHzfmE%2CMG_znWM5ETk%2CAZsmyTE3j9o%2ChOgzWfgevw4%2CyYckT0jrMt4%2CC-k3wXoE9v0%2CTOO8pWUsSvU&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=chemistry&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=5iTOphGnCtg%2ChJIr0_KnyFo%2CwyTQiKU4d1k%2CR60QoJxrfDg%2CYzjaBtBepGg%2CmSFxK4jJh80%2CIYbEl3XpMuo%2CFeap2zbEz_k%2C_t2iqcnKinI%2CeLvXS6J_ETQ%2CURJVVc2UTNA%2CVfzePktmw1I%2C1AJ2YBCf4YA%2CTx8-tV-S-cE%2CyYckT0jrMt4%2CFSyAehMdpyI%2CVUyrksU4Tac%2C0nPNwhycvkg%2C11_b4bNXfww%2CerMvV4W6CYs%2CGTYj5umuCoA%2CAw16LPVnNco%2CftACSEJ6DZA%2C9h2f1Bjr0p4%2CT3ZUd3m3gaE%2CAMMFZv50E1w%2Cn6wpNhyreDE%2CZ_TjGRPPR9Q%2C_RJQeK0BmKE%2CM8FrB2-lWQM%2CEU8k9NCEp_0%2Ct8x3wdXZGEY%2Ctj4EOEiRSPU%2Ci9GP2PDP468%2CYa272ZxOdJQ%2CP3RXtoYCW4M%2Cjb4CMnT2-ao%2CynNxiZ9SusU%2CWeMXeXlkSN0%2CgEe2PxsUjKk%2C7uIIq_Ofzgw%2CeNsVaUCzvLA%2CqgCVR2pjXc0%2CAhTRiL6xjBA%2CD0MZUgBUdyM%2CilNOpROacf0%2CA5T5D_P3D-A%2C4jxZa7MNWHM%2CUloIw7dhnlQ%2CHwPzkZ0bIeI&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=chemistry&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=M5C3q6ioDr0%2C5iTOphGnCtg%2CwyTQiKU4d1k%2ChJIr0_KnyFo%2C1AJ2YBCf4YA%2CR60QoJxrfDg%2CURJVVc2UTNA%2CYzjaBtBepGg%2C_t2iqcnKinI%2CmSFxK4jJh80%2CIYbEl3XpMuo%2CeLvXS6J_ETQ%2CFeap2zbEz_k%2CVfzePktmw1I%2CTx8-tV-S-cE%2CyYckT0jrMt4%2CFSyAehMdpyI%2C11_b4bNXfww%2CerMvV4W6CYs%2C0nPNwhycvkg%2C2xVBAqybA_8%2CAw16LPVnNco%2CJ_fla8GXjoI%2CftACSEJ6DZA%2C9h2f1Bjr0p4%2CVUyrksU4Tac%2CT3ZUd3m3gaE%2CAMMFZv50E1w%2CGTYj5umuCoA%2CZIMVePaQHq4%2CynNxiZ9SusU%2ChYmNz62b5SM%2CM8FrB2-lWQM%2C_RJQeK0BmKE%2Ci9GP2PDP468%2Ct8x3wdXZGEY%2Ctj4EOEiRSPU%2Ch_vIzdrZc6Y%2CYa272ZxOdJQ%2C3ArRL2RZHbc%2Cjb4CMnT2-ao%2CEU8k9NCEp_0%2CdstRL5xB0Sk%2C7uIIq_Ofzgw%2CP3RXtoYCW4M%2CeNsVaUCzvLA%2CgEe2PxsUjKk%2CqgCVR2pjXc0%2CAhTRiL6xjBA%2CaMU1RaRulSo&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=dvEc5gynjts%2CGkmIjfaBh78%2CD7Z6T8-HHzo%2Ca3jFZu2jnEw%2Co3Ybh9lYq74%2C2W4ZNSwoW_4%2CmUmQhtR7Ock%2CLUUIY7Fnzts%2CvcgW5wSlmEo%2CfeNIBPr8Imc%2CculLHuKaYfE%2CfAVc_uBSIMA%2CYP_Wwg-pHaE%2CahQg_Vk6_4s%2Cp91kN8mfO1s%2CWh-72VktwZQ%2C36DhvU7NsfE%2CoZnFYvjqTQw%2CXNIZULnnvYQ%2CdufpGoZmoHg%2C22HiBUai90I%2CDgAZp90bcVU%2CWSbj_oTeCMc%2CwoxWObrWXGg%2CcJEAM-9vz0E%2CkIw1TzxYcUc%2Ct36Fvj_w65E%2CEqstN0cyXWc%2CAL2xUN_eP50%2CAgi9bWfMCtU%2CkN6HHzEXKFU%2CvoK6fLv8tps%2CQZPTLblnFJg%2C_sXOFDiy3VE%2CoKStYmMgNRA%2CoA5q2RndVIE%2Clf-VC3cw3rw%2Ccf1NIlx4poQ%2CjhfvXSz0mH8%2CjghHddgBx10%2CtLtuR1atU8w%2CEjOFYbaLZC4%2C3aMR3PA2_H8%2CbhI8fXpg9hQ%2CPOovrH2kDYE%2CexvPm9k_xxk%2Cm34DYXXN3KM%2CyUa-vWMoIEg%2CWUTn9DazYIE%2CU2XMNXtosZQ&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=De7Txvsn8kg%2Cgfxw-y4P26Y%2CD7Z6T8-HHzo%2CGfHNkWRH_fg%2Cigvzt8apX5o%2CGJXju8UCMng%2Ch6spGgHADcY%2C0vdee-7VvY0%2Ca3jFZu2jnEw%2C2W4ZNSwoW_4%2CKG6B4gVOXzA%2CLUUIY7Fnzts%2CYP_Wwg-pHaE%2CP1s4utO7GjY%2CmUmQhtR7Ock%2CvcgW5wSlmEo%2CculLHuKaYfE%2CgadjsB5BkK4%2CfAVc_uBSIMA%2CdKsazCjwu5U%2Ctd45QP64DaI%2CNz7GgWCvM34%2CVe8jQ_OwFcQ%2CuiZ_44fJ_yA%2C-6jT2Z80oH4%2CunFajFjrmzg%2CCqedTsnMDlg%2COnBgO_6lRZc%2C6Ms6E2IdlzE%2C20RQoTBCwfQ%2Cr6q5Sd-YVyE%2C22HiBUai90I%2Cdtik09T90fI%2C36DhvU7NsfE%2CYwJpD2s3HiU%2CcJEAM-9vz0E%2CwoxWObrWXGg%2CkqsLNwb6qdQ%2Cwk38SlLhP8U%2CVC335NT0WY0%2C97rd2fWR6oA%2CvoK6fLv8tps%2C_sXOFDiy3VE%2CLAj9zcU3QLw%2C2HaBnDPRngE%2Clf-VC3cw3rw%2CEqstN0cyXWc%2CTzf2mowdOdw%2CjhfvXSz0mH8%2ChjKvLyammD0&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=GkmIjfaBh78%2CD7Z6T8-HHzo%2Ca3jFZu2jnEw%2Co3Ybh9lYq74%2C2W4ZNSwoW_4%2CmUmQhtR7Ock%2CLUUIY7Fnzts%2CvcgW5wSlmEo%2CfeNIBPr8Imc%2CculLHuKaYfE%2CfAVc_uBSIMA%2CYP_Wwg-pHaE%2CahQg_Vk6_4s%2CrLwvydT2eSs%2Cp91kN8mfO1s%2CWh-72VktwZQ%2C36DhvU7NsfE%2CoZnFYvjqTQw%2CdufpGoZmoHg%2C22HiBUai90I%2CDgAZp90bcVU%2CWSbj_oTeCMc%2CwoxWObrWXGg%2CcJEAM-9vz0E%2CkIw1TzxYcUc%2Ct36Fvj_w65E%2CEqstN0cyXWc%2CAL2xUN_eP50%2CAgi9bWfMCtU%2CvoK6fLv8tps%2CQZPTLblnFJg%2C_sXOFDiy3VE%2CFtsJNiKFtHY%2CoKStYmMgNRA%2Clf-VC3cw3rw%2Ccf1NIlx4poQ%2CjhfvXSz0mH8%2CjghHddgBx10%2CEjOFYbaLZC4%2C3aMR3PA2_H8%2COlFk-2t7oqk%2CZTOvyoNx4wI%2CpM1CUp4zEgs%2CPOovrH2kDYE%2Cm34DYXXN3KM%2C8fw8uKOaOSs%2CU2XMNXtosZQ%2CUhCFFAc9cfE%2Cqku-L7gm9kA%2CHBorWH77wPs&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2C_lfYn_p0Oho%2CBSpLNnPMMSQ%2CZAqIoDhornk%2C10f8le2XIsk%2CEysVhq62624%2CQXp0ehAqxm0%2CtBwFRnTzcYY%2CGfSMV84EbgE%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CZg_OsgKTYBY%2CWTETnc0l45Y%2CId0IksGVpMY%2CKO_4awG065o%2CeNOlPIWQIDE%2CDxL2HoqLbyA%2ChZ0L18B72tE%2C2xAQfy24udY%2Cg_mSpVVLjvo%2CqJ2XX136pFY%2C8--3HUkMD3U%2C8wvEcdiXMh8%2Clu4mH3Hmw2o%2C11lPhMSulSU%2Cpdm0e_Uexqc%2Cy17e12Au3RU%2C2BcOv0VYHkY%2CTkZmaamYDSI%2Ci-GxK6Mxmkg%2CcXnpQu-NCGI%2CZ6MXWjmx8c0%2ChJIr0_KnyFo%2CUS7fEkBsy4A%2COkLJ6DJkYiE%2CB2P2Qi62dG0%2CErMSHiQRnc8%2CH0pmqzjG3BI%2CXy3vJEaYOzU%2CZihywtixUYo%2CmYcLuWHzfmE%2CM8FrB2-lWQM%2CMG_znWM5ETk%2ChOgzWfgevw4%2CTOO8pWUsSvU%2CAZsmyTE3j9o%2CC-k3wXoE9v0%2CyYckT0jrMt4%2Cw2ILA2P_n6M&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=physics&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=z-OMt-fqsCY%2CBSpLNnPMMSQ%2C_lfYn_p0Oho%2C10f8le2XIsk%2CBsXFc3kPMiA%2CGfSMV84EbgE%2CZAqIoDhornk%2CtBwFRnTzcYY%2CQXp0ehAqxm0%2CEysVhq62624%2C48pZWbXx-Hw%2CBbq6dBPG9n4%2CjhwvCKrUq9U%2CKO_4awG065o%2CZg_OsgKTYBY%2C2xAQfy24udY%2CeNOlPIWQIDE%2ChZ0L18B72tE%2CId0IksGVpMY%2CDxL2HoqLbyA%2CcXnpQu-NCGI%2CugssPcmnpco%2C2BcOv0VYHkY%2C8--3HUkMD3U%2C8wvEcdiXMh8%2COkLJ6DJkYiE%2CZihywtixUYo%2Cy17e12Au3RU%2C11lPhMSulSU%2Clu4mH3Hmw2o%2Cpdm0e_Uexqc%2Ci-GxK6Mxmkg%2Cg_mSpVVLjvo%2CZ6MXWjmx8c0%2ChYc97J2MZIo%2CTkZmaamYDSI%2CMG_znWM5ETk%2CH0pmqzjG3BI%2CErMSHiQRnc8%2CM8FrB2-lWQM%2ChJIr0_KnyFo%2ChOgzWfgevw4%2CB2P2Qi62dG0%2CUS7fEkBsy4A%2CqJ2XX136pFY%2CAZsmyTE3j9o%2CyYckT0jrMt4%2Ct0LUAnEDc7E%2CPagl1zg0j4A%2CgCjA_3umNpg&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=chemistry&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=5iTOphGnCtg%2ChJIr0_KnyFo%2CwyTQiKU4d1k%2CR60QoJxrfDg%2C-C5qolvCETE%2CeLvXS6J_ETQ%2CIYbEl3XpMuo%2C1AJ2YBCf4YA%2CURJVVc2UTNA%2CmSFxK4jJh80%2Cc5nzceIDhwo%2CFeap2zbEz_k%2CMMLevhl3A8U%2CM5C3q6ioDr0%2CVfzePktmw1I%2C0nPNwhycvkg%2CJ_fla8GXjoI%2CAw16LPVnNco%2Cby3Kv_0ncUk%2CFSyAehMdpyI%2CZ_TjGRPPR9Q%2CftACSEJ6DZA%2CgEe2PxsUjKk%2CHwPzkZ0bIeI%2Cqso-kuXVNsY%2CG5a1U5FK5S0%2CfbtBZXU1BEg%2CM8FrB2-lWQM%2CTx8-tV-S-cE%2CUloIw7dhnlQ%2CAMMFZv50E1w%2C2xVBAqybA_8%2CyYckT0jrMt4%2CilNOpROacf0%2Cn6wpNhyreDE%2Ctj4EOEiRSPU%2CRNQLgPztg08%2CN0va0EOSdPU%2CP3RXtoYCW4M%2CerMvV4W6CYs%2CWwosIvrr7Ms%2CQ4LPNpiPPUQ%2C4jxZa7MNWHM%2C5vtbnGgQCIo%2C05vfNWH3_QM%2C5dPM-KFUz-U%2CuOU8UH3F0_I%2C9h2f1Bjr0p4%2C5pcznprtrcQ%2C5hNaIeNqJtI&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=chemistry&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=5iTOphGnCtg%2ChJIr0_KnyFo%2CwyTQiKU4d1k%2CR60QoJxrfDg%2C1AJ2YBCf4YA%2CURJVVc2UTNA%2C-C5qolvCETE%2CmSFxK4jJh80%2CIYbEl3XpMuo%2CeLvXS6J_ETQ%2CVfzePktmw1I%2CTx8-tV-S-cE%2C0nPNwhycvkg%2C5pcznprtrcQ%2CMMLevhl3A8U%2CerMvV4W6CYs%2CHwPzkZ0bIeI%2CftACSEJ6DZA%2CFSyAehMdpyI%2Ctj4EOEiRSPU%2CZ_TjGRPPR9Q%2CKBe3h_LgzvU%2CAw16LPVnNco%2CAMMFZv50E1w%2CyYckT0jrMt4%2CUloIw7dhnlQ%2CM5C3q6ioDr0%2CfbtBZXU1BEg%2C5vtbnGgQCIo%2Cn6wpNhyreDE%2CynNxiZ9SusU%2CZIMVePaQHq4%2CJ_fla8GXjoI%2C2xVBAqybA_8%2Cc5nzceIDhwo%2CEU8k9NCEp_0%2CilNOpROacf0%2CuOU8UH3F0_I%2CxFrT3C6mcEs%2CZS1YnUG0qUM%2CFeap2zbEz_k%2ChAH6io_Tcu0%2C9h2f1Bjr0p4%2Ct8x3wdXZGEY%2CyqehL9Fb_Q0%2Cby3Kv_0ncUk%2CM8FrB2-lWQM%2CAhTRiL6xjBA%2CA6SAF4T1hAs%2CaMU1RaRulSo&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=chemistry&type=video&maxResults=50&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json
+DEBUG:googleapiclient.discovery:URL being requested: GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=5iTOphGnCtg%2ChJIr0_KnyFo%2CwyTQiKU4d1k%2CR60QoJxrfDg%2C1AJ2YBCf4YA%2CURJVVc2UTNA%2C-C5qolvCETE%2CmSFxK4jJh80%2CeLvXS6J_ETQ%2CIYbEl3XpMuo%2CVfzePktmw1I%2C0nPNwhycvkg%2CTx8-tV-S-cE%2CftACSEJ6DZA%2CRNQLgPztg08%2CMMLevhl3A8U%2CerMvV4W6CYs%2CHwPzkZ0bIeI%2Ctj4EOEiRSPU%2CFSyAehMdpyI%2CUloIw7dhnlQ%2CAMMFZv50E1w%2CP3RXtoYCW4M%2CAw16LPVnNco%2CyYckT0jrMt4%2CZ_TjGRPPR9Q%2CFeap2zbEz_k%2Ct8x3wdXZGEY%2C5vtbnGgQCIo%2Cn6wpNhyreDE%2CZIMVePaQHq4%2C4ekf0J-W5k0%2CynNxiZ9SusU%2CuOU8UH3F0_I%2C05vfNWH3_QM%2CilNOpROacf0%2C2xVBAqybA_8%2CEU8k9NCEp_0%2CxFrT3C6mcEs%2CaMU1RaRulSo%2ChAH6io_Tcu0%2C9h2f1Bjr0p4%2CqJ_3C_jzUxk%2Ciw96eHLe1dc%2CyqehL9Fb_Q0%2CA5T5D_P3D-A%2Cjb4CMnT2-ao%2CeNsVaUCzvLA%2C8m6RtOpqvtU%2CZS1YnUG0qUM&key=AIzaSyCVPuydS09aU7eOCuUhohNaE3ap47AMosM&alt=json

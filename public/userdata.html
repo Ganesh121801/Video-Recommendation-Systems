@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Data</title>
+    <!-- Import Materialize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        main {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .row{
+            margin-left: 500px;
+            align-items: center;
+            width: 100%;
+            /* Adjust as needed */
+           
+        }
+
+        footer {
+            background-color: red;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="nav-wrapper red">
+            <div class="container">
+                <a href="./homess.html" class="brand-logo">Your Productivity Space</a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li><a href="./landingpage.ejs">Home</a></li>
+                    <li><a href="./trending.html">Trending</a></li>
+                    <li><a  href="./subscription.html">Subscriptions</a></li>
+                    <li><a href="./userdata.html">Account</a></li>
+                    <li><a href="./developers_founders.html">Developer</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <div id="userData" class="row"></div>
+    </main>
+
+    <footer class="page-footer red">
+        <div class="container">
+            <p>&copy; 2024 Your Productivity Space. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        fetch('/userdata')
+            .then(response => response.json())
+            .then(user => {
+                const userDataDiv = document.getElementById('userData');
+    
+                const userDiv = document.createElement('div');
+                userDiv.classList.add('col', 's12', 'm6', 'userDataItem');
+    
+                userDiv.innerHTML = `
+                    <div class="card blue-grey darken-1">
+                        <div class="card-content white-text">
+                            <span class="card-title">User Information</span>
+                            <p><strong>Name:</strong> ${user.name}</p>
+                            <p><strong>Email:</strong> ${user.email}</p>
+                            <p><strong>Phone Number:</strong> ${user.phno}</p>
+                            <p><strong>Gender:</strong> ${user.gender}</p>
+                            <p><strong>Niches:</strong> ${user.niches.join(', ')}</p> <!-- Display selected niches -->
+                            <p><strong>Password:</strong> ${user.password}</p>
+                        </div>
+                    </div>
+                `;
+    
+                userDataDiv.appendChild(userDiv);
+            })
+            .catch(error => {
+                console.error('Error fetching user data:', error);
+            });
+    </script>
+
+    <!-- Import jQuery and Materialize JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</body>
+</html>

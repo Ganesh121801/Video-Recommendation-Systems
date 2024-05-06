@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <!-- Include Materialize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- Include Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Custom CSS -->
+    <style>
+        /* Custom Styles */
+        body {
+            background-color: #f0f0f0;
+        }
+
+        /* Videos container styling */
+        .videos-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 10px;
+            gap: 20px;
+        }
+
+        /* Video card styling */
+        .video-card {
+            width: 320px; /* Adjust width to your preference */
+            background-color: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+            transition: transform 0.2s ease-in-out;
+            cursor: pointer;
+        }
+
+        /* Video card hover effect */
+        .video-card:hover {
+            transform: scale(1.02);
+        }
+
+        /* Video thumbnail styling */
+        .video-card img {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+        }
+
+        /* Video title styling */
+        .video-details {
+            padding: 10px;
+        }
+
+        .video-title {
+            font-size: 16px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 8px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        footer.page-footer {
+            padding: 10px;
+            background-color: #ff0000;
+            color: #fff;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="red">
+        <div class="nav-wrapper container">
+            <a href="#" class="brand-logo">Your Productivity Space</a>
+            <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="">Home</a></li>
+                <li><a href="./trending.html">Trending</a></li>
+                <li><a href="./subscription.html">Subscriptions</a></li>
+                <li><a href="./userdata.html">Account</a></li>
+                <li><a href="./developers_founders.html">Developer</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Container -->
+    <div class="container">
+        <h1 class="center-align">Recommended Videos</h1>
+
+        <!-- Videos Container -->
+        <div class="videos-container">
+            <% videosData.forEach(video => { %>
+                <!-- Video Card -->
+                <div class="video-card" onclick="window.open('<%= video.videoLink %>')">
+                    <img src="<%= video.thumbnailUrl %>" alt="Video Thumbnail">
+                    <div class="video-details">
+                        <div class="video-title"><%= video.title %></div>
+                    </div>
+                </div>
+            <% }); %>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="page-footer red">
+        <div class="container">
+            <p>&copy; 2024 Your Productivity Space. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Include jQuery and Materialize JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <!-- Initialize Materialize components -->
+    <script>
+        $(document).ready(function () {
+            $('.sidenav').sidenav(); // Initialize side navigation
+        });
+    </script>
+</body>
+
+</html>

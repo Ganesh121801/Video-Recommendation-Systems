@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="refresh" content="60">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Your Productivity Space</title>
+    <!-- Import Materialize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- Custom CSS -->
+    <style>
+        /* Custom CSS styles */
+        footer {
+            background-color: #ff0000;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        footer .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Navbar styling */
+        nav {
+            background-color: #ff0000;
+        }
+
+        /* Video container layout */
+        #video-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        /* Video card styling */
+        .video-card {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+            cursor: pointer;
+        }
+
+        .video-card img {
+            width: 100%;
+            height: auto;
+        }
+
+        .video-title {
+            font-weight: bold;
+            padding: 10px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .video-action {
+            padding: 10px;
+            text-align: right;
+        }
+
+        .video-action a {
+            color: #ff0000;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="red">
+        <div class="nav-wrapper container">
+            <a href="./landingpage.ejs" class="brand-logo">Your Productivity Space</a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="./landingpage.ejs">Home</a></li>
+                <li><a href="./trending.html">Trending</a></li>
+                <li><a href="./subscription.html">Subscriptions</a></li>
+                <li><a href="./userdata.html">Account</a></li>
+                <li><a href="./developers_founders.html">Developer</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main content -->
+    <div class="container">
+        <h1 class="center-align">Recommended Videos</h1>
+
+        <!-- Video container -->
+        <div id="video-container"></div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="page-footer red">
+        <div class="container">
+            <p>&copy; 2024 Your Productivity Space. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Import jQuery and Materialize JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.sidenav').sidenav(); // Initialize side navigation
+            fetchTrendingVideos(); // Fetch trending videos on page load
+        });
+
+        // Function to fetch trending videos
+        function fetchTrendingVideos() {
+            $.ajax({
+                url: '/trendingvideos', // Endpoint to fetch trending videos data
+                method: 'GET',
+                success: function (data) {
+                    const videoContainer = $('#video-container');
+                    videoContainer.empty(); // Clear existing video cards
+
+                    // Iterate through the data and create video cards
+                    data.forEach(video => {
+                        // Create video card HTML
+                        const cardHTML = `
+                            <div class="video-card" onclick="window.open('${video.videoLink}')">
+                                <img src="${video.thumbnailUrl}" alt="Video Thumbnail">
+                                <div class="video-details">
+                                    <div class="video-title">${video.title}</div>
+                                </div>
+                            </div>
+                        `;
+
+                        // Append the video card to the video container
+                        videoContainer.append(cardHTML);
+                    });
+                },
+                error: function (xhr, status, error) {
+                    console.error('Error fetching trending videos:', error);
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>
